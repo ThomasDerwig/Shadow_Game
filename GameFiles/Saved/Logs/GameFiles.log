@@ -2753,3 +2753,327 @@ Make sure 'Light_Interact_C' has been compiled for  Invalid Message Node
 [2018.09.26-12.30.03:334][754]LogPlayLevel: Display: Destroying online subsystem :Context_123
 [2018.09.26-12.30.06:109][ 52]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMapE4B119CE4B6B5BF7E36B0287EA8F2D71.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2018.09.26-12.30.06:216][ 52]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMap_BuiltData492CE91749557EBE9599E8B8AC43532D.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.09.26-12.33.07:672][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.26-12.33.10:179][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.33.14:467][621]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.33.14:495][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.14:496][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.33.14:496][621]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:33:14 PM)
+[2018.09.26-12.33.14:496][621]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.33.14:507][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011516s)
+[2018.09.26-12.33.14:508][621]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.33.14:508][621]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2018.09.26-12.33.14:508][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012536s)
+[2018.09.26-12.33.14:553][621]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.33.14:567][621]LogInit: FAudioDevice initialized.
+[2018.09.26-12.33.14:601][621]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.33.14:604][621]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.33.14
+[2018.09.26-12.33.14:604][621]LogWorld: Bringing up level for play took: 0.002510
+[2018.09.26-12.33.14:617][621]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.58
+[2018.09.26-12.33.14:617][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.22:112][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.33.22:190][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.22:190][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.33.22:227][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.33.22:227][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.22:259][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.33.22:292][521]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2018.09.26-12.33.28:879][279]BlueprintLog: New page: Compile TopDownCharacter
+[2018.09.26-12.33.30:038][335]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownCharacter499D9765455EB1A445404B87B50C376F.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.09.26-12.33.31:535][505]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.33.31:603][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.31:603][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.33.31:603][505]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:33:31 PM)
+[2018.09.26-12.33.31:604][505]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.33.31:615][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011136s)
+[2018.09.26-12.33.31:615][505]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.33.31:615][505]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.09.26-12.33.31:616][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011908s)
+[2018.09.26-12.33.31:656][505]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.33.31:669][505]LogInit: FAudioDevice initialized.
+[2018.09.26-12.33.31:705][505]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.33.31:711][505]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.33.31
+[2018.09.26-12.33.31:712][505]LogWorld: Bringing up level for play took: 0.005092
+[2018.09.26-12.33.31:725][505]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.312
+[2018.09.26-12.33.31:725][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.45:389][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.33.45:506][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.45:507][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.33.45:546][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.33.45:546][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.33.45:577][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.33.45:611][152]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2018.09.26-12.33.47:230][310]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMap7F29A7844BB81E4A841D22929A51CAC2.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.09.26-12.33.47:339][310]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMap_BuiltData1E136415453011C8F52C108374DFE2C7.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.09.26-12.34.48:324][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.43.47:474][121]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMap_Auto1F8B7F7D24864F803378BEB8F8D579E7E.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.09.26-12.43.47:478][121]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.260
+[2018.09.26-12.43.47:478][121]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.260
+[2018.09.26-12.43.47:481][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2018.09.26-12.43.47:509][121]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2018.09.26-12.43.47:509][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2018.09.26-12.43.47:607][121]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownCharacter_Auto192B997DA47981FDC53C0B387FEEAACD2.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2018.09.26-12.43.47:609][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy] ([1] browsable assets)...
+[2018.09.26-12.43.47:629][121]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy.Enemy]
+[2018.09.26-12.43.47:629][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy]
+[2018.09.26-12.43.47:664][121]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Enemy_Auto16E4DAB964E0674FB540C5584082B66AC.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Autosaves/Game/Blueprints/Enemy_Auto1.uasset'
+[2018.09.26-12.43.47:665][121]LogFileHelpers: Auto-saving content packages took 0.185
+[2018.09.26-12.44.23:747][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-12.44.28:551][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-12.44.43:139][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.45.17:174][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.47.23:585][122]BlueprintLog: New page: Compile TopDownCharacter
+[2018.09.26-12.47.24:457][168]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownCharacterA08075924ED03570F606E889DB16A15B.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.09.26-12.47.28:360][611]BlueprintLog: New page: Compile Enemy
+[2018.09.26-12.47.29:375][696]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Enemy03C7A7B84A763741E4F9A194A14DA9AC.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Enemy.uasset'
+[2018.09.26-12.47.43:435][318]LogEditorViewport: Clicking on Actor (LMB): Vanquisher_Light_C (Vanquisher_Light)
+[2018.09.26-12.48.02:638][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.48.40:331][441]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Death_Pit5)
+[2018.09.26-12.48.56:645][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.49.10:275][879]BlueprintLog: New page: Compile Enemy
+[2018.09.26-12.49.11:040][932]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Enemy94A320044EDC4AB71C350D84252FC3FD.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Enemy.uasset'
+[2018.09.26-12.49.28:671][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.49.47:122][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.50.14:488][306]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.50.14:536][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.50.14:536][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.50.14:536][306]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:50:14 PM)
+[2018.09.26-12.50.14:536][306]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.50.14:549][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013042s)
+[2018.09.26-12.50.14:550][306]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.50.14:550][306]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.09.26-12.50.14:550][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013927s)
+[2018.09.26-12.50.14:592][306]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.50.14:605][306]LogInit: FAudioDevice initialized.
+[2018.09.26-12.50.14:638][306]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.50.14:641][306]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.50.14
+[2018.09.26-12.50.14:641][306]LogWorld: Bringing up level for play took: 0.002595
+[2018.09.26-12.50.14:654][306]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.618
+[2018.09.26-12.50.14:655][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.50.45:085][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.50.45:169][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.50.45:169][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.50.45:214][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.50.45:214][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.50.45:246][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.50.45:281][961]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2018.09.26-12.51.39:734][275]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMapF69B48244B381798059334852C17D90B.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.09.26-12.51.39:848][275]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownExampleMap_BuiltData2F53169B4D44AE67A58F0BA29118DD97.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.09.26-12.51.41:267][430]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.51.41:295][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.51.41:295][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.51.41:295][430]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:51:41 PM)
+[2018.09.26-12.51.41:295][430]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.51.41:308][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013356s)
+[2018.09.26-12.51.41:309][430]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.51.41:309][430]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.09.26-12.51.41:309][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014219s)
+[2018.09.26-12.51.41:354][430]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.51.41:366][430]LogInit: FAudioDevice initialized.
+[2018.09.26-12.51.41:404][430]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.51.41:414][430]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.51.41
+[2018.09.26-12.51.41:415][430]LogWorld: Bringing up level for play took: 0.007547
+[2018.09.26-12.51.41:431][430]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.606
+[2018.09.26-12.51.41:432][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.52.18:128][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.52.18:195][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.52.18:195][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.52.18:277][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.52.18:277][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.52.18:309][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.52.18:325][835]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2018.09.26-12.53.14:084][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.53.14:111][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.14:112][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.53.14:112][327]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:53:14 PM)
+[2018.09.26-12.53.14:112][327]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.53.14:126][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014380s)
+[2018.09.26-12.53.14:127][327]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.53.14:127][327]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.09.26-12.53.14:127][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015344s)
+[2018.09.26-12.53.14:171][327]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.53.14:185][327]LogInit: FAudioDevice initialized.
+[2018.09.26-12.53.14:217][327]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.53.14:220][327]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.53.14
+[2018.09.26-12.53.14:220][327]LogWorld: Bringing up level for play took: 0.002574
+[2018.09.26-12.53.14:233][327]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.196
+[2018.09.26-12.53.14:233][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.16:852][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.53.23:683][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.23:683][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.53.23:765][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.53.23:765][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.23:797][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.53.23:813][354]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2018.09.26-12.53.33:534][721]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.53.33:559][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.33:559][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.53.33:559][721]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:53:33 PM)
+[2018.09.26-12.53.33:559][721]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.53.33:570][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011077s)
+[2018.09.26-12.53.33:571][721]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.53.33:571][721]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2018.09.26-12.53.33:571][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011855s)
+[2018.09.26-12.53.33:609][721]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.53.33:623][721]LogInit: FAudioDevice initialized.
+[2018.09.26-12.53.33:651][721]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.53.33:654][721]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.53.33
+[2018.09.26-12.53.33:654][721]LogWorld: Bringing up level for play took: 0.002363
+[2018.09.26-12.53.33:667][721]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.37
+[2018.09.26-12.53.33:667][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.35:054][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.35:054][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.53.35:100][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.53.35:101][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.53.35:131][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.53.35:162][886]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2018.09.26-12.53.41:786][652]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Friends.Friends
+[2018.09.26-12.53.54:988][173]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/HUD_BLueprint.HUD_BLueprint
+[2018.09.26-12.54.08:883][763]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Friend_Counter.Friend_Counter
+[2018.09.26-12.57.08:916][745]BlueprintLog: New page: Compile Friend_Counter
+[2018.09.26-12.57.09:532][804]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Friend_Counter3661300C475B5B3FFE700DBA9663816A.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Friend_Counter.uasset'
+[2018.09.26-12.57.11:267][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.57.11:290][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.57.11:290][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.57.11:290][  6]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:57:11 PM)
+[2018.09.26-12.57.11:291][  6]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.57.11:303][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012252s)
+[2018.09.26-12.57.11:303][  6]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.57.11:304][  6]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.09.26-12.57.11:304][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013092s)
+[2018.09.26-12.57.11:344][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.57.11:358][  6]LogInit: FAudioDevice initialized.
+[2018.09.26-12.57.11:386][  6]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.57.11:389][  6]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.57.11
+[2018.09.26-12.57.11:389][  6]LogWorld: Bringing up level for play took: 0.002587
+[2018.09.26-12.57.11:402][  6]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.635
+[2018.09.26-12.57.11:402][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.57.38:476][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.57.38:551][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.57.38:551][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.57.38:635][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.57.38:635][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.57.38:668][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.57.38:682][258]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2018.09.26-12.58.13:803][417]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-12.58.13:833][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.58.13:833][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-12.58.13:833][417]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 4:58:13 PM)
+[2018.09.26-12.58.13:833][417]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-12.58.13:845][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011779s)
+[2018.09.26-12.58.13:846][417]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-12.58.13:846][417]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.09.26-12.58.13:846][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012687s)
+[2018.09.26-12.58.13:888][417]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-12.58.13:901][417]LogInit: FAudioDevice initialized.
+[2018.09.26-12.58.13:947][417]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-12.58.13:958][417]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-14.58.13
+[2018.09.26-12.58.13:959][417]LogWorld: Bringing up level for play took: 0.009668
+[2018.09.26-12.58.13:974][417]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.063
+[2018.09.26-12.58.13:974][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.58.29:138][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.58.48:335][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-12.58.48:428][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.58.48:429][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.58.48:509][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-12.58.48:509][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-12.58.48:545][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-12.58.48:558][479]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2018.09.26-13.02.33:924][979]BlueprintLog: New page: Compile TopDownCharacter
+[2018.09.26-13.02.34:857][ 24]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownCharacterE1AB12E9458FFEDD6C0078B7B6B9FCE6.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.09.26-13.02.38:700][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-13.02.38:765][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.02.38:765][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-13.02.38:765][469]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 5:02:38 PM)
+[2018.09.26-13.02.38:765][469]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-13.02.38:777][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011819s)
+[2018.09.26-13.02.38:778][469]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-13.02.38:778][469]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.09.26-13.02.38:778][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012664s)
+[2018.09.26-13.02.38:821][469]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-13.02.38:835][469]LogInit: FAudioDevice initialized.
+[2018.09.26-13.02.38:873][469]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-13.02.38:884][469]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-15.02.38
+[2018.09.26-13.02.38:886][469]LogWorld: Bringing up level for play took: 0.009985
+[2018.09.26-13.02.38:904][469]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.868
+[2018.09.26-13.02.38:905][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.03:326][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-13.03.03:410][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.03:410][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-13.03.03:455][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-13.03.03:455][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.03:489][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-13.03.03:523][402]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2018.09.26-13.03.12:429][412]LogUObjectBase: Warning: Object is not registered
+[2018.09.26-13.03.14:864][412]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.434 s
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: 
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: Stack: 
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9b6bf71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9b6930c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9b694b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9a85211db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9a853060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9b21ada3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff99dcaec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff99dc6f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9c54f8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9c573e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9c555281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9c5528190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9c551b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9e2edd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9e2ed0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9e2edf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9e2ecc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ffa0c2a6cc1 USER32.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ffa0c2a6693 USER32.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff9e2ee0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff6239354e5 UE4Editor.exe!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff623945b3c UE4Editor.exe!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff623945bba UE4Editor.exe!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff623953dac UE4Editor.exe!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ff623955aaa UE4Editor.exe!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ffa0c443034 KERNEL32.DLL!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: [Callstack] 0x00007ffa0e921461 ntdll.dll!UnknownFunction []
+[2018.09.26-13.03.14:864][412]LogOutputDevice: Error: 
+[2018.09.26-13.03.14:869][412]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.26-13.03.18:986][412]LogStats:                    SendNewReport -  4.117 s
+[2018.09.26-13.03.18:986][412]LogStats:             FDebug::EnsureFailed -  6.556 s
+[2018.09.26-13.03.18:986][412]LogUObjectBase: Warning: Object is not registered
+[2018.09.26-13.03.27:609][410]BlueprintLog: New page: Compile Enemy
+[2018.09.26-13.03.28:400][469]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Enemy32F327F441FBAED63485338770B9B6A7.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Enemy.uasset'
+[2018.09.26-13.03.35:576][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-13.03.35:651][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-13.03.35:683][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.35:683][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-13.03.35:683][311]PIE: New page: PIE session: TopDownExampleMap (Sep 26, 2018, 5:03:35 PM)
+[2018.09.26-13.03.35:683][311]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.09.26-13.03.35:696][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012444s)
+[2018.09.26-13.03.35:696][311]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.26-13.03.35:696][311]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.09.26-13.03.35:696][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013200s)
+[2018.09.26-13.03.35:737][311]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-13.03.35:750][311]LogInit: FAudioDevice initialized.
+[2018.09.26-13.03.35:780][311]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.26-13.03.35:782][311]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.09.26-15.03.35
+[2018.09.26-13.03.35:783][311]LogWorld: Bringing up level for play took: 0.002500
+[2018.09.26-13.03.35:795][311]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.242
+[2018.09.26-13.03.35:795][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.57:164][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-13.03.57:265][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.57:265][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-13.03.57:342][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-13.03.57:342][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.09.26-13.03.57:381][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-13.03.57:395][885]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2018.09.26-13.04.21:784][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-13.05.02:177][543]LogEditorViewport: Clicking on Actor (LMB): Light_Token_C (Light_Token)
+[2018.09.26-13.05.07:752][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-13.05.22:142][890]BlueprintLog: New page: Compile Light_Token
+[2018.09.26-13.05.22:894][954]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Light_TokenCEBF57924BF348ABFBD569A17F688F80.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Light_Token.uasset'
+[2018.09.26-13.05.52:471][335]BlueprintLog: New page: Compile TopDownCharacter
+[2018.09.26-13.05.53:329][375]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/TopDownCharacter53DE6AD3420D916FF19B28A9097B94FD.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.09.26-13.06.01:639][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
