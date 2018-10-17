@@ -35632,3 +35632,190 @@ LogInit: Object subsystem initialized
 [2018.10.17-12.15.54:037][806]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/NotPark_BuiltDataADA8192D45DB3C8AA4DBC5972E81210F.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/NotPark_BuiltData.uasset'
 [2018.10.17-12.15.54:174][806]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/NotParkB4CE20CC412942BF0C00F6B13241753B.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/NotPark.umap'
 [2018.10.17-12.15.54:209][806]LogFileHelpers: Saving map 'NotPark' took 0.168
+[2018.10.17-12.17.54:068][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.17-12.17.54:979][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.17-12.17.56:876][371]Cmd: DELETE
+[2018.10.17-12.17.56:876][371]Cmd: ACTOR DELETE
+[2018.10.17-12.17.56:877][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-12.17.56:900][371]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.10.17-12.18.00:272][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.18.06:867][499]LogEditorViewport: Clicking on Actor (LMB): House_C (House)
+[2018.10.17-12.18.09:968][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.18.17:062][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.18.25:999][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.18.29:740][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.18.31:409][299]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.17-12.18.36:139][829]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.17-12.18.39:962][251]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.17-12.18.46:733][ 19]LogEditorViewport: Clicking on Actor (LMB): House_C (House)
+[2018.10.17-12.18.48:714][246]Cmd: EDIT COPY
+[2018.10.17-12.18.49:096][291]Cmd: EDIT PASTE
+[2018.10.17-12.18.53:704][813]Cmd: EDIT COPY
+[2018.10.17-12.18.54:067][856]Cmd: EDIT PASTE
+[2018.10.17-12.18.59:535][485]LogEditorViewport: Clicking on Actor (LMB): House_C (House2)
+[2018.10.17-12.19.03:149][906]LogEditorViewport: Clicking on Actor (LMB): House_C (House3)
+[2018.10.17-12.19.06:658][315]Cmd: EDIT COPY
+[2018.10.17-12.19.07:037][360]Cmd: EDIT PASTE
+[2018.10.17-12.19.21:440][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.19.39:195][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.20.16:857][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.20.27:730][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.20.29:237][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.20.37:218][617]LogEditorViewport: Clicking on Actor (LMB): House_C (House5)
+[2018.10.17-12.20.38:704][790]Cmd: EDIT COPY
+[2018.10.17-12.20.39:719][911]Cmd: EDIT PASTE
+[2018.10.17-12.20.41:396][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.20.47:522][785]LogEditorViewport: Clicking on Actor (LMB): House_C (House4)
+[2018.10.17-12.20.49:261][978]Cmd: EDIT COPY
+[2018.10.17-12.20.49:614][  9]Cmd: EDIT PASTE
+[2018.10.17-12.20.58:998][ 90]Cmd: EDIT COPY
+[2018.10.17-12.20.59:454][144]Cmd: EDIT PASTE
+[2018.10.17-12.21.04:009][656]Cmd: DELETE
+[2018.10.17-12.21.04:009][656]Cmd: ACTOR DELETE
+[2018.10.17-12.21.04:015][656]LogEditorActor: Deleted Actor: House_C
+[2018.10.17-12.21.04:087][656]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.10.17-12.21.05:419][816]LogEditorViewport: Clicking on Actor (LMB): House_C (House6)
+[2018.10.17-12.21.06:139][899]Cmd: EDIT COPY
+[2018.10.17-12.21.06:589][952]Cmd: EDIT PASTE
+[2018.10.17-12.21.10:320][365]Cmd: EDIT COPY
+[2018.10.17-12.21.10:708][409]Cmd: EDIT PASTE
+[2018.10.17-12.21.16:336][ 57]LogEditorViewport: Clicking on Actor (LMB): House_C (House8)
+[2018.10.17-12.21.16:950][127]Cmd: DELETE
+[2018.10.17-12.21.16:950][127]Cmd: ACTOR DELETE
+[2018.10.17-12.21.16:954][127]LogEditorActor: Deleted Actor: House_C
+[2018.10.17-12.21.16:986][127]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.10.17-12.21.18:370][293]LogEditorViewport: Clicking on Actor (LMB): House_C (House9)
+[2018.10.17-12.21.19:208][388]Cmd: DELETE
+[2018.10.17-12.21.19:208][388]Cmd: ACTOR DELETE
+[2018.10.17-12.21.19:211][388]LogEditorActor: Deleted Actor: House_C
+[2018.10.17-12.21.19:238][388]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.10.17-12.21.23:348][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.21.23:511][889]LogActorFactory: Actor Factory created Cube
+[2018.10.17-12.21.24:422][997]LogActorFactory: Actor Factory created Cube
+[2018.10.17-12.21.28:961][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.21.32:652][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.21.37:249][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.21.40:797][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.21.49:751][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.21.55:347][591]Cmd: EDIT COPY
+[2018.10.17-12.21.55:684][621]Cmd: EDIT PASTE
+[2018.10.17-12.21.57:430][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.22.01:904][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.22.06:142][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.22.06:258][854]LogActorFactory: Actor Factory created Cube
+[2018.10.17-12.22.07:404][980]LogActorFactory: Actor Factory created Cube
+[2018.10.17-12.22.11:465][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.22.23:357][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.22.28:990][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.22.39:669][707]LogEditorViewport: Clicking on Actor (LMB): House_C (House6)
+[2018.10.17-12.22.40:583][811]Cmd: EDIT COPY
+[2018.10.17-12.22.40:954][853]Cmd: EDIT PASTE
+[2018.10.17-12.22.48:418][696]Cmd: EDIT COPY
+[2018.10.17-12.22.48:789][738]Cmd: EDIT PASTE
+[2018.10.17-12.22.52:587][161]Cmd: EDIT COPY
+[2018.10.17-12.22.52:911][199]Cmd: EDIT PASTE
+[2018.10.17-12.22.57:490][714]Cmd: EDIT COPY
+[2018.10.17-12.22.57:857][751]Cmd: EDIT PASTE
+[2018.10.17-12.23.05:210][593]Cmd: DELETE
+[2018.10.17-12.23.05:210][593]Cmd: ACTOR DELETE
+[2018.10.17-12.23.05:216][593]LogEditorActor: Deleted Actor: House_C
+[2018.10.17-12.23.05:257][593]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2018.10.17-12.23.06:690][765]LogEditorViewport: Clicking on Actor (LMB): House_C (House10)
+[2018.10.17-12.23.07:526][862]Cmd: DELETE
+[2018.10.17-12.23.07:526][862]Cmd: ACTOR DELETE
+[2018.10.17-12.23.07:531][862]LogEditorActor: Deleted Actor: House_C
+[2018.10.17-12.23.07:556][862]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.10.17-12.23.09:242][ 64]LogEditorViewport: Clicking on Actor (LMB): House_C (House7)
+[2018.10.17-12.23.10:262][181]Cmd: EDIT COPY
+[2018.10.17-12.23.14:245][658]LogEditorViewport: Clicking on Actor (LMB): House_C (House6)
+[2018.10.17-12.23.15:190][768]LogEditorViewport: Clicking on Actor (LMB): House_C (House8)
+[2018.10.17-12.23.16:534][924]LogEditorViewport: Clicking on Actor (LMB): House_C (House9)
+[2018.10.17-12.23.17:100][987]Cmd: EDIT COPY
+[2018.10.17-12.23.17:514][ 36]Cmd: EDIT PASTE
+[2018.10.17-12.23.22:463][603]Cmd: EDIT COPY
+[2018.10.17-12.23.22:763][638]Cmd: EDIT PASTE
+[2018.10.17-12.23.25:449][942]Cmd: DELETE
+[2018.10.17-12.23.25:449][942]Cmd: ACTOR DELETE
+[2018.10.17-12.23.25:454][942]LogEditorActor: Deleted Actor: House_C
+[2018.10.17-12.23.25:481][942]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.10.17-12.23.26:656][ 83]LogEditorViewport: Clicking on Actor (LMB): House_C (House7)
+[2018.10.17-12.23.27:128][136]Cmd: EDIT COPY
+[2018.10.17-12.23.27:468][176]Cmd: EDIT PASTE
+[2018.10.17-12.23.33:066][802]Cmd: EDIT COPY
+[2018.10.17-12.23.33:313][831]Cmd: EDIT PASTE
+[2018.10.17-12.23.36:418][174]Cmd: EDIT COPY
+[2018.10.17-12.23.36:659][202]Cmd: EDIT PASTE
+[2018.10.17-12.23.40:073][580]Cmd: EDIT COPY
+[2018.10.17-12.23.40:346][612]Cmd: EDIT PASTE
+[2018.10.17-12.23.47:646][440]LogEditorViewport: Clicking on Actor (LMB): House_C (House6)
+[2018.10.17-12.23.48:357][520]Cmd: EDIT COPY
+[2018.10.17-12.23.48:649][554]Cmd: EDIT PASTE
+[2018.10.17-12.23.50:678][776]LogEditorViewport: Clicking on Actor (LMB): House_C (House5)
+[2018.10.17-12.23.51:125][824]Cmd: EDIT COPY
+[2018.10.17-12.23.51:398][856]Cmd: EDIT PASTE
+[2018.10.17-12.23.56:596][425]LogEditorViewport: Clicking on Actor (LMB): House_C (House)
+[2018.10.17-12.23.57:538][516]LogEditorViewport: Clicking on Actor (CTRL LMB): House_C (House2)
+[2018.10.17-12.23.58:438][617]LogEditorViewport: Clicking on Actor (CTRL LMB): House_C (House3)
+[2018.10.17-12.23.58:925][667]LogEditorViewport: Clicking on Actor (CTRL LMB): House_C (House4)
+[2018.10.17-12.23.59:585][743]Cmd: EDIT COPY
+[2018.10.17-12.24.00:140][808]Cmd: EDIT PASTE
+[2018.10.17-12.24.04:571][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.24.07:491][569]LogEditorViewport: Clicking on Actor (LMB): House_C (House5)
+[2018.10.17-12.24.08:439][673]LogEditorViewport: Clicking on Actor (CTRL LMB): House_C (House6)
+[2018.10.17-12.24.08:981][733]LogEditorViewport: Clicking on Actor (CTRL LMB): House_C (House15)
+[2018.10.17-12.24.09:557][795]LogEditorViewport: Clicking on Actor (CTRL LMB): House_C (House16)
+[2018.10.17-12.24.10:235][873]Cmd: EDIT COPY
+[2018.10.17-12.24.10:623][918]Cmd: EDIT PASTE
+[2018.10.17-12.24.15:137][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.24.20:577][954]LogEditorViewport: Clicking on Actor (LMB): House_C (House23)
+[2018.10.17-12.24.21:125][  5]Cmd: EDIT COPY
+[2018.10.17-12.24.21:444][ 42]Cmd: EDIT PASTE
+[2018.10.17-12.24.26:936][643]LogEditorViewport: Clicking on Actor (LMB): House_C (House14)
+[2018.10.17-12.24.27:595][706]Cmd: EDIT COPY
+[2018.10.17-12.24.27:936][746]Cmd: EDIT PASTE
+[2018.10.17-12.24.31:573][150]LogEditorViewport: Clicking on Actor (LMB): House_C (House15)
+[2018.10.17-12.24.32:331][235]Cmd: EDIT COPY
+[2018.10.17-12.24.32:673][275]Cmd: EDIT PASTE
+[2018.10.17-12.24.32:710][275]Cmd: EDIT COPY
+[2018.10.17-12.24.41:034][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.24.45:725][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.24.49:366][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.24.51:997][349]LogEditorViewport: Clicking on Actor (LMB): Closing_Wall_C (Closing_Wall)
+[2018.10.17-12.24.54:587][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.17-12.24.57:413][941]LogEditorViewport: Clicking on Actor (LMB): House_C (House7)
+[2018.10.17-12.24.58:908][105]Cmd: EDIT COPY
+[2018.10.17-12.24.59:386][161]Cmd: EDIT PASTE
+[2018.10.17-12.25.11:441][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.25.16:316][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.17-12.25.16:348][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.17-12.25.16:348][ 38]PIE: New page: PIE session: NotPark (Oct 17, 2018, 4:25:16 PM)
+[2018.10.17-12.25.16:348][ 38]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NotPark
+[2018.10.17-12.25.16:379][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030895s)
+[2018.10.17-12.25.16:380][ 38]LogAIModule: Creating AISystem for world NotPark
+[2018.10.17-12.25.16:380][ 38]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.10.17-12.25.16:380][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NotPark.NotPark to /Game/Maps/UEDPIE_0_NotPark.NotPark (0.031737s)
+[2018.10.17-12.25.16:474][ 38]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.17-12.25.16:488][ 38]LogInit: FAudioDevice initialized.
+[2018.10.17-12.25.16:518][ 38]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.17-12.25.16:536][ 38]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NotPark.NotPark up for play (max tick rate 0) at 2018.10.17-14.25.16
+[2018.10.17-12.25.16:539][ 38]LogWorld: Bringing up level for play took: 0.019254
+[2018.10.17-12.25.16:552][ 38]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NotPark 0.278
+[2018.10.17-12.25.59:266][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.25.59:355][168]LogNet: Browse: /Game/Maps/NotPark
+[2018.10.17-12.25.59:355][168]LogLoad: LoadMap: /Game/Maps/NotPark
+[2018.10.17-12.25.59:388][168]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NotPark
+[2018.10.17-12.25.59:416][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029072s)
+[2018.10.17-12.25.59:417][168]LogAIModule: Creating AISystem for world NotPark
+[2018.10.17-12.25.59:417][168]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.10.17-12.25.59:417][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NotPark.NotPark to /Game/Maps/UEDPIE_0_NotPark.NotPark (0.030003s)
+[2018.10.17-12.25.59:417][168]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.17-12.25.59:444][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NotPark.NotPark up for play (max tick rate 0) at 2018.10.17-14.25.59
+[2018.10.17-12.25.59:446][168]LogWorld: Bringing up level for play took: 0.028814
+[2018.10.17-12.25.59:449][168]LogLoad: Took 0.095348 seconds to LoadMap(/Game/Maps/UEDPIE_0_NotPark)
+[2018.10.17-12.26.40:437][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-12.26.40:537][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-12.26.40:579][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.17-12.26.40:613][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.17-12.26.40:644][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.10.17-12.26.41:902][184]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/NotPark521F02E744D50C43957617AC9F03164E.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/NotPark.umap'
+[2018.10.17-12.26.41:965][184]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/NotPark_BuiltDataA576C934433ADE0D12F087AF69C436FC.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/NotPark_BuiltData.uasset'
