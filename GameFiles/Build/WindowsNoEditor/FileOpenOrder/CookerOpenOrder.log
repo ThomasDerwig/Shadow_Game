@@ -11,135 +11,135 @@
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 10
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 11
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 12
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 13
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 14
-"../../../Engine/Content/BasicShapes/Cone.uasset" 15
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 16
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 17
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 18
-"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 19
-"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 20
-"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 21
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 22
-"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 23
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 24
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 25
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 26
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 27
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 28
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 29
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 30
-"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 31
-"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 32
-"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 33
-"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 34
-"../../../Engine/Content/BufferVisualization/Metallic.uasset" 35
-"../../../Engine/Content/BufferVisualization/Opacity.uasset" 36
-"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 37
-"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 38
-"../../../Engine/Content/BufferVisualization/Roughness.uasset" 39
-"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 40
-"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 41
-"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 42
-"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 43
-"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 44
-"../../../Engine/Content/BufferVisualization/Specular.uasset" 45
-"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 46
-"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 47
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 48
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 49
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 50
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 51
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 52
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 53
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 54
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 55
-"../../../Engine/Content/EditorMaterials/Cross.uasset" 56
-"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 57
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 60
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 61
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 62
-"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 63
-"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 64
-"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 65
-"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 66
-"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 67
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 68
-"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 69
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 70
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 71
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 72
-"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 73
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 74
-"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 75
-"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 76
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 77
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 78
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 79
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 80
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 81
-"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 82
-"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 83
-"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 84
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 85
-"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 86
-"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 87
-"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 88
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 89
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 90
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 91
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 92
-"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 93
-"../../../Engine/Content/EditorMaterials/Tick.uasset" 94
-"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 95
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 96
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 97
-"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 98
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 99
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 100
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 101
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 102
-"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 103
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 104
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 105
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 106
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 107
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 108
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 109
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 110
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 111
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 112
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 113
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 114
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 115
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 116
-"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 117
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 118
-"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 119
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 120
-"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 121
-"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 122
-"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 123
-"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 124
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 125
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 126
-"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 127
-"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 128
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 129
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 130
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 131
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 132
-"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 133
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 134
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 135
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 136
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 137
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 138
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 139
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 140
-"../../../Engine/Content/EditorResources/Bad.uasset" 141
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 13
+"../../../Engine/Content/BasicShapes/Cone.uasset" 14
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 15
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 16
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 17
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 18
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 19
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 21
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 28
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 29
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 30
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 31
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 32
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 33
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 34
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 35
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 36
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 37
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 38
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 39
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 40
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 41
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 42
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 43
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 44
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 45
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 46
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 47
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 48
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 49
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 50
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 51
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 52
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 53
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 54
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 55
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 56
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 57
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 61
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 62
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 63
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 64
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 65
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 66
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 67
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 68
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 69
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 71
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 72
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 73
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 74
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 75
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 76
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 77
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 78
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 79
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 80
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 81
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 82
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 83
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 84
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 85
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 86
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 87
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 88
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 89
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 90
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 91
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 92
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 93
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 94
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 95
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 96
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 97
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 98
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 99
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 100
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 101
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 102
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 104
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 105
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 113
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 114
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 115
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 116
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 117
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 118
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 119
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 120
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 121
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 122
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 123
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 125
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 126
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 127
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 128
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 129
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 130
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 131
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 132
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 133
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 134
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 135
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 136
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 137
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 138
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 139
+"../../../Engine/Content/EditorResources/Bad.uasset" 140
+"../../../Engine/Content/EditorResources/BadBlueprintSprite.uasset" 141
 "../../../Engine/Content/EditorResources/BSPVertex.uasset" 142
 "../../../Engine/Content/EditorResources/EmptyActor.uasset" 143
 "../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 144
@@ -167,295 +167,323 @@
 "../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 166
 "../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 167
 "../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 168
-"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 169
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 170
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 171
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 172
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 173
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 174
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 175
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 176
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 177
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 178
-"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 179
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 180
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 181
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 182
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 183
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 184
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 185
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 186
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 187
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 188
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 189
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 190
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 191
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 192
-"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 193
-"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 194
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 195
-"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 196
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 197
-"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 198
-"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 199
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 200
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 201
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 202
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 203
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 204
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 205
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 206
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 207
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 208
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 209
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 210
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 211
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 212
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 213
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 214
-"../../../Engine/Content/EngineFonts/SmallFont.uasset" 215
-"../../../Engine/Content/EngineFonts/TinyFont.uasset" 216
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 217
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 218
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 219
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 220
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 221
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 222
-"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 223
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 224
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 225
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 226
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 227
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uasset" 228
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 229
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 230
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 231
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 232
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 233
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 234
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 235
-"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 236
-"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 237
-"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 238
-"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 239
-"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 240
-"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 241
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 242
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 243
-"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 244
-"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 245
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 246
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 247
-"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 248
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 249
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 250
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 251
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 252
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 253
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 254
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 255
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 256
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 257
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 258
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 259
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 260
-"../../../Engine/Content/EngineResources/Black.uasset" 261
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 262
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 263
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 264
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 265
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 266
-"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 267
-"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 268
-"../../../Engine/Content/EngineSounds/Master.uasset" 269
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 270
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 271
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 272
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 273
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 274
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 275
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 276
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 277
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 278
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 279
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 280
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 281
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 282
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 283
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 284
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 285
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 286
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 287
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 288
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 289
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 290
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 291
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 292
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 293
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 294
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 295
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 296
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 297
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 298
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 299
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 300
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 301
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 302
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 303
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 304
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 305
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/cursor_placeholder.uasset" 306
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Doghouse.uasset" 307
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 308
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 309
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 310
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Explosion01.uasset" 311
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Explosion02.uasset" 312
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 313
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 314
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 315
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_MacroVariation.uasset" 316
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 317
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 318
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 319
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 320
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 321
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 322
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 323
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 324
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 325
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 326
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 327
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 328
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 329
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 330
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 331
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Ground_Grass.uasset" 332
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 333
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 334
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Rock_Slate.uasset" 335
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Water_M.uasset" 336
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Water_N.uasset" 337
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Water_Ocean.uasset" 338
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 339
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 340
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 341
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 342
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 343
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 344
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 345
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 346
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 347
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 348
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 349
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 350
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 351
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 352
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 353
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 354
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 355
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 356
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 357
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 358
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 359
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 360
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 361
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 362
-"../../../Engine/Content/Maps/Entry.umap" 363
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 364
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 365
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 366
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 367
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 368
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 369
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 370
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 371
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 372
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/CheckPoint_Interact.uasset" 373
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 374
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 375
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 376
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 377
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 378
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonRun.uasset" 379
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 380
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 381
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 382
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Light_Interact.uasset" 383
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Glow_Lamp.uasset" 384
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Glow_Lamp_Sprite.uasset" 385
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Light_Token.uasset" 386
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 387
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 388
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Wood_Oak.uasset" 389
-"../../../Engine/Content/BasicShapes/Cube.uasset" 390
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Door_placeholder.uasset" 391
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Door_placeholder_Sprite.uasset" 392
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Closing_Wall.uasset" 393
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Enemy_Interact.uasset" 394
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Dead_screen.uasset" 395
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Retry_button_placeholder.uasset" 396
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Death_Screen.uasset" 397
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Friend_placeholder.uasset" 398
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/menu_button.uasset" 399
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset" 400
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" 401
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset02.uasset" 402
-"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 403
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Enemy.uasset" 404
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Friend_Interact.uasset" 405
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uasset" 406
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Friends.uasset" 407
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/ResetPoint_Interact.uasset" 408
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 409
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset" 410
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Vanquisher_Interact.uasset" 411
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Vanquisher_Light.uasset" 412
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Vanquisher_Light_Sprite.uasset" 413
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Vanquisher_Light.uasset" 414
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 415
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 416
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 417
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 418
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 419
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 420
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 421
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 422
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 423
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 424
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 425
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 426
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 427
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 428
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Explosion_Cue.uasset" 429
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 430
-"../../../Engine/Content/BasicShapes/Plane.uasset" 431
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Checkpoint.uasset" 432
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownController.uasset" 433
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 434
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/Level1_BuiltData.uasset" 435
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Geometry/Meshes/CubeMaterial.uasset" 436
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Basic_Floor.uasset" 437
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 438
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 439
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 440
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 441
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 442
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/Level1.umap" 443
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Paw_Icon.uasset" 444
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Cursor.uasset" 445
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Dog_Backyard_Background_Menu.uasset" 446
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/exit.uasset" 447
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Level_1.uasset" 448
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Level_2.uasset" 449
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/MainMenu_Widget.uasset" 450
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/MainMenu.uasset" 451
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/GameModes/MainMenu.uasset" 452
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/MainMenu_BuiltData.uasset" 453
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/MainMenu.umap" 454
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/Park_BuiltData.uasset" 455
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Water_Lake.uasset" 456
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Bush_D.uasset" 457
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Bush_N.uasset" 458
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Props/Materials/M_Bush.uasset" 459
-"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/Park.umap" 460
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 169
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 170
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 171
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 172
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 173
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 174
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 175
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 176
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 177
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 178
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 179
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 180
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 181
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 182
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 183
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 184
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 185
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 188
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 200
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 204
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 207
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 208
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 209
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 210
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 211
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 212
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 213
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 214
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 215
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 216
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 217
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 218
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 219
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 220
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 221
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 222
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 223
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 232
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 233
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 234
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 235
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 236
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 237
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 238
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 239
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 240
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 241
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 243
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 244
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 245
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 247
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 248
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 249
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 250
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 251
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 252
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 253
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 254
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 255
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 256
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 257
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 258
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 259
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 260
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 261
+"../../../Engine/Content/EngineResources/Black.uasset" 262
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 263
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 264
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 265
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 266
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 267
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 268
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 269
+"../../../Engine/Content/EngineSounds/Master.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 271
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 272
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 273
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 274
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 275
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 293
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 294
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 295
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 296
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 297
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 298
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 304
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 308
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 309
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 310
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 311
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Collapse01.uasset" 312
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Collapse02.uasset" 313
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Collapse_Cue.uasset" 314
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Explosion01.uasset" 315
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Explosion02.uasset" 316
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Fire01.uasset" 317
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Fire01_Cue.uasset" 318
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Fire_Sparks01.uasset" 319
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 320
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Light01.uasset" 321
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Light01_Cue.uasset" 322
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Light02.uasset" 323
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Light02_Cue.uasset" 324
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Smoke01.uasset" 325
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Smoke01_Cue.uasset" 326
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 327
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Starter_Birds01.uasset" 328
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Starter_Music01.uasset" 329
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 330
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Starter_Wind05.uasset" 331
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Starter_Wind06.uasset" 332
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Steam01.uasset" 333
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Steam01_Cue.uasset" 334
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 335
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 336
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 337
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 338
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 339
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 340
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 342
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 343
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 344
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 345
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 351
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 352
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 353
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/begin_game.uasset" 354
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/level_select_screen.uasset" 355
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 356
+"../../../Engine/Content/Maps/Entry.umap" 357
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 358
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 359
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 360
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 361
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 362
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 363
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 364
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 365
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 366
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/CheckPoint_Interact.uasset" 367
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 368
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 369
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 370
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 371
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 372
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonRun.uasset" 373
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 374
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 375
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 376
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Light_Interact.uasset" 377
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Glow_Lamp.uasset" 378
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Glow_Lamp_Sprite.uasset" 379
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Audio/Ding.uasset" 380
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Light_Token.uasset" 381
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_MacroVariation.uasset" 382
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 383
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 384
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/DarkWoodTrans.uasset" 385
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Wood_Oak.uasset" 386
+"../../../Engine/Content/BasicShapes/Cube.uasset" 387
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Door_placeholder.uasset" 388
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Door_placeholder_Sprite.uasset" 389
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Audio/Thud_Sound_Effect.uasset" 390
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Closing_Wall.uasset" 391
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Friend_Interact.uasset" 392
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uasset" 393
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Friends.uasset" 394
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Enemy_Interact.uasset" 395
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Finish_Interact.uasset" 396
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Paw_Icon.uasset" 397
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Cursor.uasset" 398
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Dead_screen.uasset" 399
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Retry_button_placeholder.uasset" 400
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Death_Screen.uasset" 401
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Friend_placeholder.uasset" 402
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/menu_button.uasset" 403
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset" 404
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/nadat_een_level_geselecteerd_is.uasset" 405
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/next.uasset" 406
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Win_Screen.uasset" 407
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" 408
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/ResetPoint_Interact.uasset" 409
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 410
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 411
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 412
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Wood_Pine.uasset" 413
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/TransPine.uasset" 414
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Reset_Wall.uasset" 415
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 416
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset" 417
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Vanquisher_Interact.uasset" 418
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Vanquisher_Light.uasset" 419
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Vanquisher_Light_Sprite.uasset" 420
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Audio/Lightsaber.uasset" 421
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Vanquisher_Light.uasset" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 423
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 424
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 425
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 426
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 427
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 428
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 429
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 430
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 431
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 432
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 433
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 434
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 435
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 436
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Audio/Explosion_Cue.uasset" 437
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 438
+"../../../Engine/Content/BasicShapes/Plane.uasset" 439
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Checkpoint.uasset" 440
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownController.uasset" 441
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 442
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset" 443
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Geometry/Meshes/CubeMaterial.uasset" 444
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Basic_Floor.uasset" 445
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 446
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 447
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 448
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 449
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 450
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 451
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap" 452
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Dog_Backyard_Background_Menu.uasset" 453
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/exit.uasset" 454
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Level_1.uasset" 455
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Level_2.uasset" 456
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/MainMenu_Widget.uasset" 457
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/MainMenu.uasset" 458
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/GameModes/MainMenu.uasset" 459
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/MainMenu_BuiltData.uasset" 460
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/MainMenu.umap" 461
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 462
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Enemies_op_wielen.uasset" 463
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Art/Enemies_op_wielen_Sprite.uasset" 464
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Audio/ANGRY_CAT_SOUND_EFFECT.uasset" 465
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Move_Enemy.uasset" 466
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 467
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 468
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 469
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 470
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Door_M.uasset" 471
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Door_N.uasset" 472
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Props/Materials/M_Door.uasset" 473
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/House.uasset" 474
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/2_BuiltData.uasset" 475
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 476
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 477
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 478
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Gradinet_01.uasset" 479
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 480
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 481
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/2.umap" 482
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset02.uasset" 483
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 484
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/Enemy.uasset" 485
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" 486
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Geometry/Meshes/1M_Cube.uasset" 487
+"C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/TopDownBP/Maps/TopDownExampleMap.umap" 488
