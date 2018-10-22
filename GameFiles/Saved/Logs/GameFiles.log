@@ -15230,3 +15230,278 @@ Missing Cooked Info(expected 0): 0
 [2018.10.22-12.07.46:623][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.10.22-12.07.46:634][396]LogPlayLevel: Display: Destroying online subsystem :Context_88
 [2018.10.22-12.07.47:389][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.12.31:595][414]BlueprintLog: New page: Compile LevelFinish
+[2018.10.22-12.12.31:606][414]LogBlueprint: Warning: [Compiler LevelFinish] 'Top Down Character' does not inherit from 'Player Controller' ( Cast To TopDownCharacter  would always fail).
+[2018.10.22-12.12.31:757][414]LogBlueprint: Warning: [Compiler LevelFinish] [2743.44] Compile of LevelFinish successful, but with 1 Warning(s) [in 163 ms] (/Game/Blueprints/LevelFinish.LevelFinish)
+[2018.10.22-12.12.32:224][457]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/LevelFinishA6873FD542DB295EBF38ABB56EF0E4EC.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/LevelFinish.uasset'
+[2018.10.22-12.12.50:368][591]BlueprintLog: New page: Compile LevelFinish
+[2018.10.22-12.12.50:948][632]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/LevelFinish9D224C114D461C4CE80A1A9244EAA557.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/LevelFinish.uasset'
+[2018.10.22-12.16.31:640][651]BlueprintLog: New page: Compile LevelFinish
+[2018.10.22-12.16.32:361][708]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/LevelFinish206B4EC3498410B68A86C68D4C9FAB77.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/LevelFinish.uasset'
+[2018.10.22-12.17.17:551][ 55]BlueprintLog: New page: Compile LevelFinish
+[2018.10.22-12.17.18:450][134]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/LevelFinish5D6B61114F516149D0FE3BAC3BD582DD.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/LevelFinish.uasset'
+[2018.10.22-12.17.20:099][306]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1DE9AFE0B49A9E34DE30B67991170DAA7.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.22-12.17.20:162][306]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1_BuiltData08CFF5FE4A3FE099EDAA1989E03A005E.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.22-12.17.22:116][538]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.17.22:150][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.22:151][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.17.22:151][538]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:17:22 PM)
+[2018.10.22-12.17.22:151][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.17.22:160][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008726s)
+[2018.10.22-12.17.22:160][538]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.17.22:160][538]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.10.22-12.17.22:160][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.009560s)
+[2018.10.22-12.17.22:198][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.17.22:212][538]LogInit: FAudioDevice initialized.
+[2018.10.22-12.17.22:245][538]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.17.22:247][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.17.22
+[2018.10.22-12.17.22:247][538]LogWorld: Bringing up level for play took: 0.001078
+[2018.10.22-12.17.22:261][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 -0.743
+[2018.10.22-12.17.22:262][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.33:386][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.17.33:479][880]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.22-12.17.33:479][880]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.22-12.17.33:563][880]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.22-12.17.33:564][880]LogLoad: Game class is 'MainMenu_C'
+[2018.10.22-12.17.33:566][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.22-14.17.33
+[2018.10.22-12.17.33:566][880]LogWorld: Bringing up level for play took: 0.001372
+[2018.10.22-12.17.33:567][880]LogLoad: Took 0.087485 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.22-12.17.34:775][ 24]LogNet: Browse: /Game/Maps/1
+[2018.10.22-12.17.34:775][ 24]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.22-12.17.34:805][ 24]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.17.34:813][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007735s)
+[2018.10.22-12.17.34:814][ 24]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.17.34:814][ 24]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.10.22-12.17.34:814][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.008982s)
+[2018.10.22-12.17.34:814][ 24]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.17.34:823][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.17.34
+[2018.10.22-12.17.34:823][ 24]LogWorld: Bringing up level for play took: 0.008739
+[2018.10.22-12.17.34:826][ 24]LogLoad: Took 0.050149 seconds to LoadMap(/Game/Maps/UEDPIE_0_1)
+[2018.10.22-12.17.39:077][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.39:077][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.17.39:114][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.17.39:115][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.39:162][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.17.39:182][536]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2018.10.22-12.17.40:408][683]LogEditorViewport: Clicking on Actor (LMB): LevelFinish_C (LevelFinish)
+[2018.10.22-12.17.45:435][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.17.45:510][278]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.17.45:540][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.45:540][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.17.45:540][278]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:17:45 PM)
+[2018.10.22-12.17.45:540][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.17.45:548][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007870s)
+[2018.10.22-12.17.45:548][278]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.17.45:548][278]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.10.22-12.17.45:548][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.008714s)
+[2018.10.22-12.17.45:590][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.17.45:603][278]LogInit: FAudioDevice initialized.
+[2018.10.22-12.17.45:634][278]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.17.45:636][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.17.45
+[2018.10.22-12.17.45:636][278]LogWorld: Bringing up level for play took: 0.000984
+[2018.10.22-12.17.45:650][278]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0.645
+[2018.10.22-12.17.45:650][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.50:073][808]LogBlueprintUserMessages: [LevelFinish_2] OOPS!!!
+[2018.10.22-12.17.53:198][183]LogBlueprintUserMessages: [LevelFinish_2] OOPS!!!
+[2018.10.22-12.17.55:370][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.17.55:471][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.55:472][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.17.55:509][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.17.55:509][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.17.55:539][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.17.55:574][458]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2018.10.22-12.17.57:149][647]LogEditorViewport: Clicking on Actor (LMB): LevelFinish_C (LevelFinish)
+[2018.10.22-12.18.01:671][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.18.03:460][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.18.03:544][342]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.18.03:574][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.18.03:574][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.18.03:574][342]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:18:03 PM)
+[2018.10.22-12.18.03:574][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.18.03:581][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007517s)
+[2018.10.22-12.18.03:582][342]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.18.03:582][342]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.10.22-12.18.03:582][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.008362s)
+[2018.10.22-12.18.03:664][342]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.18.03:677][342]LogInit: FAudioDevice initialized.
+[2018.10.22-12.18.03:707][342]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.18.03:708][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.18.03
+[2018.10.22-12.18.03:709][342]LogWorld: Bringing up level for play took: 0.001048
+[2018.10.22-12.18.03:723][342]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0.717
+[2018.10.22-12.18.03:723][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.18.10:094][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.18.10:186][117]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.22-12.18.10:186][117]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.22-12.18.10:264][117]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.22-12.18.10:264][117]LogLoad: Game class is 'MainMenu_C'
+[2018.10.22-12.18.10:266][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.22-14.18.10
+[2018.10.22-12.18.10:266][117]LogWorld: Bringing up level for play took: 0.001155
+[2018.10.22-12.18.10:268][117]LogLoad: Took 0.081373 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.22-12.18.12:060][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.18.12:060][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.18.12:098][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.18.12:098][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.18.12:130][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.18.12:167][335]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2018.10.22-12.18.20:468][316]LogEditorViewport: Clicking on Actor (LMB): LevelFinish_C (LevelFinish)
+[2018.10.22-12.18.23:381][650]LogEditorViewport: Clicking on Actor (LMB): Friends_C (Friends3)
+[2018.10.22-12.18.24:069][727]Cmd: DELETE
+[2018.10.22-12.18.24:069][727]Cmd: ACTOR DELETE
+[2018.10.22-12.18.24:071][727]LogEditorActor: Deleted Actor: Friends_C
+[2018.10.22-12.18.24:100][727]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.10.22-12.18.25:740][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.18.26:031][933]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/16DBAE47A4B1870D0D2E33FB6504D6595.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.22-12.18.26:087][933]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1_BuiltDataB435A82746D930AD4C35449201DEDCEB.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.22-12.18.42:759][878]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Normal_HUD.Normal_HUD
+[2018.10.22-12.18.58:787][686]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.22-12.19.29:037][180]BlueprintLog: New page: Compile Normal_HUD
+[2018.10.22-12.19.29:743][229]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Normal_HUD93B9D2AA467E03A55A0A8E81B6F7AE0E.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset'
+[2018.10.22-12.20.09:770][899]BlueprintLog: New page: Compile Normal_HUD
+[2018.10.22-12.20.10:375][957]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Normal_HUDA55CCF804F24C771AA9F4E88285DA8AB.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset'
+[2018.10.22-12.21.08:641][823]BlueprintLog: New page: Compile Normal_HUD
+[2018.10.22-12.21.08:655][823]LogBlueprint: Error: [Compiler Normal_HUD] Binding: Property ' Text Delegate ' on Widget ' TextBlock_272 ': Binding: 'None' : 'None' was not found on 'Normal HUD'.
+[2018.10.22-12.21.08:698][823]LogBlueprint: Warning: [Compiler Normal_HUD] [3260.38] Compile of Normal_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 56 ms] (/Game/HUD_messages/Normal_HUD.Normal_HUD)
+[2018.10.22-12.21.09:425][903]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Normal_HUDE51EFB8B41F85837EA57EF9673CCFA44.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset'
+[2018.10.22-12.21.13:352][355]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Normal_HUD.Normal_HUD
+[2018.10.22-12.21.20:298][114]BlueprintLog: New page: Compile Normal_HUD
+[2018.10.22-12.21.21:114][184]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Normal_HUD43A537F149F2E613C55288B85D9D7A81.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset'
+[2018.10.22-12.21.31:408][377]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Text.Text
+[2018.10.22-12.22.13:823][250]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.22-12.22.20:239][976]BlueprintLog: New page: Compile Text
+[2018.10.22-12.22.20:870][ 22]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Text601B810546D14617908CD1A9CC58D34A.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/HUD_messages/Text.uasset'
+[2018.10.22-12.23.04:755][923]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Interactions/Gate_Interact.Gate_Interact
+[2018.10.22-12.23.17:526][432]BlueprintLog: New page: Compile Gate_Interact
+[2018.10.22-12.23.18:007][480]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/Gate_Interact75F313C8420F0A87F63237AC145E8F39.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Interactions/Gate_Interact.uasset'
+[2018.10.22-12.23.21:782][923]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.22-12.23.27:171][557]BlueprintLog: New page: Compile LevelFinish
+[2018.10.22-12.23.27:767][596]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/LevelFinishE089E32447F66FE8A06B2E8DE170688A.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/LevelFinish.uasset'
+[2018.10.22-12.24.37:644][741]BlueprintLog: New page: Compile LevelFinish
+[2018.10.22-12.24.38:305][788]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/LevelFinish70DD7CF1496B7629612298883658527F.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/LevelFinish.uasset'
+[2018.10.22-12.24.39:602][916]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/10A6D2EBF4ED168D8FE1E87ACFE28599E.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.22-12.24.39:666][916]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1_BuiltData322FAD8B4E7B8922FF9E67A40AD4EC8D.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.22-12.24.42:944][291]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.22-12.24.42:946][291]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.22-12.24.54:657][522]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.22-12.24.58:456][961]BlueprintLog: New page: Compile HUD_BLueprint
+[2018.10.22-12.24.59:104][  1]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/HUD_BLueprint529ADCE64EDC3CD2957D4CA401D1A98B.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.22-12.25.21:758][646]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.22-12.25.48:970][831]BlueprintLog: New page: Compile HUD_BLueprint
+[2018.10.22-12.25.49:781][894]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/HUD_BLueprint780B8B5F4E1B6C3880970590295F5D77.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.22-12.25.53:003][254]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1B5D43BB747E83CEB4C44C58F91FDA3E7.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.22-12.25.53:062][254]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1_BuiltData4E7229D4425B90F9357027AB15BECDE7.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.22-12.25.58:847][938]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.25.58:895][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.25.58:895][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.25.58:895][938]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:25:58 PM)
+[2018.10.22-12.25.58:895][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.25.58:904][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008387s)
+[2018.10.22-12.25.58:904][938]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.25.58:904][938]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.10.22-12.25.58:904][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.009160s)
+[2018.10.22-12.25.58:944][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.25.58:957][938]LogInit: FAudioDevice initialized.
+[2018.10.22-12.25.58:988][938]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.25.58:989][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.25.58
+[2018.10.22-12.25.58:989][938]LogWorld: Bringing up level for play took: 0.001038
+[2018.10.22-12.25.59:003][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 -0.001
+[2018.10.22-12.25.59:004][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.01:970][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.01:971][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.26.02:006][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.26.02:006][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.02:043][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.26.02:087][292]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2018.10.22-12.26.03:079][411]LogEditorViewport: Clicking on Actor (LMB): LevelFinish_C (LevelFinish)
+[2018.10.22-12.26.05:646][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.26.06:082][755]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.26.06:119][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.06:119][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.26.06:119][755]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:26:06 PM)
+[2018.10.22-12.26.06:119][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.26.06:127][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007842s)
+[2018.10.22-12.26.06:127][755]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.26.06:128][755]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.10.22-12.26.06:128][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.008604s)
+[2018.10.22-12.26.06:168][755]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.26.06:181][755]LogInit: FAudioDevice initialized.
+[2018.10.22-12.26.06:223][755]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.26.06:229][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.26.06
+[2018.10.22-12.26.06:230][755]LogWorld: Bringing up level for play took: 0.004383
+[2018.10.22-12.26.06:253][755]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 -0.752
+[2018.10.22-12.26.06:254][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.13:544][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.13:545][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.26.13:580][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.26.13:580][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.26.13:613][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.26.13:660][628]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2018.10.22-12.26.14:962][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.27.35:267][966]BlueprintLog: New page: Compile HUD_BLueprint
+[2018.10.22-12.27.36:201][ 20]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/HUD_BLueprintC843F9D142F378483F8A36979E8AD86A.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.22-12.27.39:218][353]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1AD5A05F74F18A91EC25D91981E8F242C.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.22-12.27.39:275][353]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1_BuiltData73430C0D49ED2AD3799EAE8F9EF1EEBE.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.22-12.27.39:943][430]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.27.39:979][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.27.39:979][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.27.39:979][430]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:27:39 PM)
+[2018.10.22-12.27.39:979][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.27.39:987][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008148s)
+[2018.10.22-12.27.39:987][430]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.27.39:987][430]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.10.22-12.27.39:987][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.008937s)
+[2018.10.22-12.27.40:026][430]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.27.40:038][430]LogInit: FAudioDevice initialized.
+[2018.10.22-12.27.40:068][430]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.27.40:069][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.27.40
+[2018.10.22-12.27.40:069][430]LogWorld: Bringing up level for play took: 0.000971
+[2018.10.22-12.27.40:083][430]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 1.079
+[2018.10.22-12.27.40:083][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.27.54:461][150]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.22-12.27.57:210][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.27.57:345][496]LogNet: Browse: /Game/Maps/1
+[2018.10.22-12.27.57:345][496]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.22-12.27.57:377][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.27.57:386][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008784s)
+[2018.10.22-12.27.57:386][496]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.27.57:386][496]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.10.22-12.27.57:386][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.009541s)
+[2018.10.22-12.27.57:386][496]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.27.57:395][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.27.57
+[2018.10.22-12.27.57:395][496]LogWorld: Bringing up level for play took: 0.007882
+[2018.10.22-12.27.57:398][496]LogLoad: Took 0.052546 seconds to LoadMap(/Game/Maps/UEDPIE_0_1)
+[2018.10.22-12.28.01:229][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.28.01:230][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.28.01:267][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.28.01:267][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.28.01:320][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.28.01:337][913]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2018.10.22-12.28.32:228][537]BlueprintLog: New page: Compile HUD_BLueprint
+[2018.10.22-12.28.32:887][582]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/HUD_BLueprintB6013B464D9986D1E6793396A998D8B3.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.22-12.28.36:157][948]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1E753D89341CB7883182F8B835D6BCB3A.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.22-12.28.36:216][948]LogSavePackage: Moving 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Saved/1_BuiltDataEFCDF58C4CCF15BCC856008D94BCF5D6.tmp' to 'C:/Users/Thomas Derwig/Documents/University/Year 3/Design for games and play 1/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.22-12.28.36:942][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.22-12.28.36:982][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.28.36:982][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.22-12.28.36:982][ 28]PIE: New page: PIE session: 1 (Oct 22, 2018, 4:28:36 PM)
+[2018.10.22-12.28.36:983][ 28]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.22-12.28.36:991][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008224s)
+[2018.10.22-12.28.36:992][ 28]LogAIModule: Creating AISystem for world 1
+[2018.10.22-12.28.36:992][ 28]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.10.22-12.28.36:992][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.009459s)
+[2018.10.22-12.28.37:031][ 28]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-12.28.37:043][ 28]LogInit: FAudioDevice initialized.
+[2018.10.22-12.28.37:075][ 28]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.22-12.28.37:079][ 28]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.22-14.28.37
+[2018.10.22-12.28.37:080][ 28]LogWorld: Bringing up level for play took: 0.003072
+[2018.10.22-12.28.37:099][ 28]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0.094
+[2018.10.22-12.28.37:099][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.28.44:374][892]LogBlueprintUserMessages: [HUD_BLueprint_C_0] delaylo
+[2018.10.22-12.28.50:100][579]LogBlueprintUserMessages: [HUD_BLueprint_C_0] delaylo
+[2018.10.22-12.28.53:158][946]LogBlueprintUserMessages: [HUD_BLueprint_C_0] delaylo
+[2018.10.22-12.28.55:768][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-12.28.56:452][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.28.56:452][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.28.56:485][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.22-12.28.56:486][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.22-12.28.56:517][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-12.28.56:563][343]LogPlayLevel: Display: Destroying online subsystem :Context_102
