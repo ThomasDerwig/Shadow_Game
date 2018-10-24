@@ -1,0 +1,1144 @@
+﻿Log file open, 10/24/18 20:50:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameFiles
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278581
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.232s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.24-18.50.56:888][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.24-18.50.56:888][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.24-18.50.56:904][  0]LogHAL: Display: Platform has ~ 8 GB [8463278080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.24-18.50.56:904][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.24-18.50.56:904][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.24-18.50.56:905][  0]LogInit: Computer: 20173771
+[2018.10.24-18.50.56:905][  0]LogInit: User: 20173771
+[2018.10.24-18.50.56:905][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.24-18.50.56:905][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.10.24-18.50.56:905][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.24-18.50.56:905][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.24-18.50.56:905][  0]LogMemory: Process Physical Memory: 102.64 MB used, 102.64 MB peak
+[2018.10.24-18.50.56:905][  0]LogMemory: Process Virtual Memory: 86.07 MB used, 86.07 MB peak
+[2018.10.24-18.50.56:905][  0]LogMemory: Physical Memory: 5927.58 MB used,  2143.63 MB free, 8071.21 MB total
+[2018.10.24-18.50.56:905][  0]LogMemory: Virtual Memory: 543.46 MB used,  2143.63 MB free, 134217728.00 MB total
+[2018.10.24-18.50.56:925][  0]LogInit: Using OS detected language (en-US).
+[2018.10.24-18.50.56:925][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.24-18.50.56:926][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.24-18.50.57:287][  0]LogStreaming: Display: Took  0.362s to InitEngineTextLocalization.
+[2018.10.24-18.50.57:324][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.24-18.50.57:324][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.24-18.50.57:642][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.24-18.50.57:642][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.24-18.50.57:688][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2018.10.24-18.50.57:688][  0]LogD3D11RHI:       4062/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.24-18.50.57:698][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.24-18.50.57:698][  0]LogD3D11RHI:       128/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.24-18.50.57:701][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.24-18.50.57:701][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.24-18.50.57:701][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.24-18.50.57:708][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.24-18.50.57:708][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.24-18.50.57:708][  0]LogWindows: EnumDisplayDevices:
+[2018.10.24-18.50.57:709][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.10.24-18.50.57:709][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.24-18.50.57:709][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.24-18.50.57:709][  0]LogWindows:    3. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2018.10.24-18.50.57:709][  0]LogWindows:    4. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2018.10.24-18.50.57:710][  0]LogWindows:    5. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2018.10.24-18.50.57:710][  0]LogWindows:    6. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2018.10.24-18.50.57:710][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.24-18.50.57:710][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2018.10.24-18.50.57:710][  0]LogD3D11RHI:   Driver Version: 385.73 (internal:22.21.13.8573, unified:385.73)
+[2018.10.24-18.50.57:710][  0]LogD3D11RHI:      Driver Date: 9-25-2017
+[2018.10.24-18.50.57:710][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2018.10.24-18.50.57:741][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.24-18.50.57:754][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.24-18.50.57:756][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Intermediate/Shaders/WorkingDirectory/11944/).
+[2018.10.24-18.50.57:756][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/20173771/AppData/Local/Temp/UnrealShaderWorkingDir/A1A20C3F4BE66646DDDD84B480BFC661/'.
+[2018.10.24-18.50.57:996][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.24-18.50.58:011][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.24-18.50.58:026][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.24-18.50.58:041][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.24-18.50.58:057][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.24-18.50.58:072][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.24-18.50.58:088][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.24-18.50.58:103][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.24-18.50.58:111][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.24-18.50.58:199][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:200][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-18.50.58:202][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.24-18.50.58:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.24-18.50.58:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.24-18.50.58:293][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.24-18.50.58:293][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.24-18.50.58:308][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.24-18.50.58:324][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.24-18.50.58:341][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.24-18.50.58:356][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.24-18.50.58:366][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.24-18.50.58:366][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.24-18.50.58:442][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.24-18.50.58:442][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.24-18.50.58:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.24-18.50.59:344][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.24-18.50.59:417][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/20173771/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.24-18.50.59:418][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/20173771/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.24-18.50.59:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.24-18.50.59:418][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.24-18.50.59:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.24-18.50.59:418][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.24-18.50.59:434][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.24-18.50.59:446][  0]LogDerivedDataCache: Using Local data cache path C:/Users/20173771/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.24-18.50.59:446][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.24-18.50.59:446][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.24-18.50.59:467][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.24-18.50.59:468][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.24-18.50.59:469][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.24-18.50.59:563][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.10.24-18.50.59:934][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.24-18.51.00:108][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.24-18.51.00:113][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.24-18.51.00:113][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.24-18.51.00:113][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.24-18.51.00:113][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.24-18.51.00:131][  0]LogNetVersion: GameFiles 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 169372248)
+[2018.10.24-18.51.00:866][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.250944 seconds
+[2018.10.24-18.51.00:874][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.24-18.51.00:874][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.24-18.51.00:874][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.24-18.51.02:042][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.24-18.51.02:056][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.24-18.51.02:222][  0]SourceControl: Source control is disabled
+[2018.10.24-18.51.02:222][  0]SourceControl: Source control is disabled
+[2018.10.24-18.51.02:224][  0]SourceControl: Source control is disabled
+[2018.10.24-18.51.02:225][  0]SourceControl: Source control is disabled
+[2018.10.24-18.51.02:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.24-18.51.02:478][  0]LogOcInput: OculusInput pre-init called
+[2018.10.24-18.51.02:549][  0]LogEngine: Initializing Engine...
+[2018.10.24-18.51.02:551][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.24-18.51.02:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.24-18.51.02:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.24-18.51.02:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.24-18.51.02:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.24-18.51.02:808][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.24-18.51.02:828][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.24-18.51.02:840][  0]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-18.51.02:854][  0]LogInit: FAudioDevice initialized.
+[2018.10.24-18.51.02:855][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.24-18.51.02:952][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/20173771/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.24-18.51.02:958][  0]LogInit: Texture streaming: Enabled
+[2018.10.24-18.51.02:979][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.24-18.51.02:999][  0]LogInit: Transaction tracking system initialized
+[2018.10.24-18.51.03:028][  0]BlueprintLog: New page: Editor Load
+[2018.10.24-18.51.03:143][  0]LocalizationService: Localization service is disabled
+[2018.10.24-18.51.03:511][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.24-18.51.03:511][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.24-18.51.03:512][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.24-18.51.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.24-18.51.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.24-18.51.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.24-18.51.03:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.24-18.51.03:666][  0]LogFileCache: Scanning file cache for directory 'C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/' took 0.02s
+[2018.10.24-18.51.03:667][  0]SourceControl: Source control is disabled
+[2018.10.24-18.51.03:667][  0]Cmd: MAP LOAD FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.24-18.51.03:670][  0]LightingResults: New page: Lighting Build
+[2018.10.24-18.51.03:674][  0]MapCheck: New page: Map Check
+[2018.10.24-18.51.03:674][  0]LightingResults: New page: Lighting Build
+[2018.10.24-18.51.03:996][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.24-18.51.04:001][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.24-18.51.04:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.24-18.51.04:146][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.582ms to complete.
+[2018.10.24-18.51.04:146][  0]LogFileHelpers: Loading map 'MainMenu' took 0.480
+[2018.10.24-18.51.04:215][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.24-18.51.04:216][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.24-18.51.04:357][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.51.04:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.51.04:375][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.51.04:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.51.04:395][  0]LogCollectionManager: Loaded 0 collections in 0.001555 seconds
+[2018.10.24-18.51.04:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Collections/' took 0.01s
+[2018.10.24-18.51.04:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Developers/20173771/Collections/' took 0.01s
+[2018.10.24-18.51.04:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Collections/' took 0.01s
+[2018.10.24-18.51.04:457][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.24-18.51.04:468][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2572 classes and 603 folders.
+[2018.10.24-18.51.04:486][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.24-18.51.04:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.24-18.51.04:657][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.24-18.51.04:720][  0]LogSlate: Took 0.000520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.24-18.51.04:723][  0]LogSlate: Took 0.000815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.24-18.51.04:733][  0]LogSlate: Took 0.001356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.24-18.51.04:850][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-18.51.05:065][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.24-18.51.05:065][  0]LogLoad: (Engine Initialization) Total time: 10.36 seconds
+[2018.10.24-18.51.05:065][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.24-18.51.05:116][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.24-18.51.05:136][  0]LogSlate: Took 0.003789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.24-18.51.05:145][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/' took 0.05s
+[2018.10.24-18.51.06:057][ 95]LogAssetRegistry: Asset discovery search completed in 6.5152 seconds
+[2018.10.24-18.51.06:064][ 95]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.24-18.51.06:064][ 95]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2018.10.24-18.51.06:921][ 97]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.24-18.51.06:928][ 97]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Friends.Friends
+[2018.10.24-18.51.07:450][ 97]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.10.24-18.51.08:353][ 97]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/HUD_BLueprint.HUD_BLueprint
+[2018.10.24-18.51.08:693][ 97]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Win_Screen.Win_Screen
+[2018.10.24-18.51.09:128][ 97]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2018.10.24-18.51.09:581][ 97]LogSlate: Took 0.001187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.24-18.51.09:888][ 98]LogSlate: Took 0.003254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.24-18.51.18:565][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-18.51.39:724][592]AssetReimport: New page: Outstanding source content changes 10:51:39 PM
+[2018.10.24-18.51.39:734][592]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o.wav]
+[2018.10.24-18.51.39:766][592]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o.wav)
+[2018.10.24-18.51.39:842][592]LogAudioEditor: -- imported successfully
+[2018.10.24-18.51.39:906][593]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/NightTime.wav]
+[2018.10.24-18.51.39:974][593]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/NightTime.wav)
+[2018.10.24-18.51.40:125][593]LogAudioEditor: -- imported successfully
+[2018.10.24-18.51.40:302][594]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Phoenix_Wright_2_-_26_Pearl_Fey_3CF9094A4CDF043049DE099887F3E657.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o.uasset'
+[2018.10.24-18.51.40:341][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OST/NightTime" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/NightTime.uasset" SILENT=true
+[2018.10.24-18.51.40:399][594]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/NightTime0FBCB0764DAA1A056A02399C358435C4.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/NightTime.uasset'
+[2018.10.24-18.51.44:048][  9]AssetReimport: Reimported asset Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o.wav.
+[2018.10.24-18.51.44:048][  9]AssetReimport: Reimported asset NightTime from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/NightTime.wav.
+[2018.10.24-18.51.48:164][478]LogRenderer: Reallocating scene render targets to support 964x688 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-18.53.00:435][ 16]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.24-18.53.00:435][ 16]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameModes/MainMenu.MainMenu
+[2018.10.24-18.53.14:107][532]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.24-18.53.14:107][532]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MainMenu.MainMenu
+[2018.10.24-18.53.36:952][194]LogLinker: Warning: Can't find file '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o'
+[2018.10.24-18.53.36:953][194]LogLinker: Warning: Can't find file for asset '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o' while loading ../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/main_menu.uasset.
+[2018.10.24-18.53.36:953][194]LoadErrors: Error: /Game/OST/main_menu : Can't find file for asset. /Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o
+[2018.10.24-18.53.36:953][194]LogLinker: Warning: Can't find file '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o'
+[2018.10.24-18.53.36:953][194]LogLinker: Warning: Can't find file for asset '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o' while loading ../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/main_menu.uasset.
+[2018.10.24-18.53.36:954][194]LogLinker: Warning: Can't find file '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o'
+[2018.10.24-18.53.36:954][194]LoadErrors: Failed to load /Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o.Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o Referenced by SoundNodeWavePlayer_0
+[2018.10.24-18.53.36:954][194]LogLinker: Warning: Can't find file for asset '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o' while loading NULL.
+[2018.10.24-18.53.36:954][194]LogLinker: Warning: Can't find file '/Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o'
+[2018.10.24-18.53.36:954][194]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Soundtrack/Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o.Phoenix_Wright_2_-_26_Pearl_Fey___With_Pearly-FcJ3KUcgk-o'
+[2018.10.24-18.53.47:132][346]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/OST/main_menu.main_menu
+[2018.10.24-18.54.03:684][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OST/main_menu" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/main_menu.uasset" SILENT=true
+[2018.10.24-18.54.03:715][900]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/main_menu366D432D4C43AE2025D19BBD4B948938.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/OST/main_menu.uasset'
+[2018.10.24-18.54.04:934][ 16]LogSlate: Window 'main_menu' being destroyed
+[2018.10.24-18.54.10:155][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-18.54.13:138][858]LogSlate: Window 'Content Browser' being destroyed
+[2018.10.24-18.54.13:145][858]LogSlate: Window 'Content Browser' being destroyed
+[2018.10.24-18.54.16:321][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.10.24-18.54.16:354][225]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/MainMenuB291C0084893C668C702D79C6281E145.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/MainMenu.uasset'
+[2018.10.24-18.54.17:263][325]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-18.54.17:309][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.24-18.54.17:310][325]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-18.54.17:313][325]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2018.10.24-18.54.17:494][325]LogPlayLevel: PlayLevel: Blueprint regeneration took 184 ms (1 blueprints)
+[2018.10.24-18.54.17:510][325]PIE: New page: PIE session: MainMenu (Oct 24, 2018, 10:54:17 PM)
+[2018.10.24-18.54.17:510][325]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.24-18.54.17:515][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004421s)
+[2018.10.24-18.54.17:515][325]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.24-18.54.17:516][325]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2018.10.24-18.54.17:516][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.005740s)
+[2018.10.24-18.54.17:553][325]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-18.54.17:561][325]LogInit: FAudioDevice initialized.
+[2018.10.24-18.54.17:571][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.54.17:654][325]LogLoad: Game class is 'MainMenu_C'
+[2018.10.24-18.54.17:655][325]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.24-20.54.17
+[2018.10.24-18.54.17:655][325]LogWorld: Bringing up level for play took: 0.001113
+[2018.10.24-18.54.17:684][325]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.10.24-18.54.17:694][325]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.109
+[2018.10.24-18.54.17:695][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.24-18.54.17:781][325]LogRenderer: Reallocating scene render targets to support 1024x688 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-18.54.20:544][618]LogNet: Browse: /Game/Maps/2
+[2018.10.24-18.54.20:545][618]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.24-18.54.21:873][618]LogAIModule: Creating AISystem for world 2
+[2018.10.24-18.54.21:873][618]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-18.54.22:377][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-20.54.22
+[2018.10.24-18.54.22:397][618]LogWorld: Bringing up level for play took: 0.522654
+[2018.10.24-18.54.22:398][618]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-18.54.22:401][618]LogLoad: Took 1.855380 seconds to LoadMap(/Game/Maps/2)
+[2018.10.24-18.54.22:428][619]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068318 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.24-18.54.26:214][954]LogSlate: Window 'GameFiles Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-18.54.26:223][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.24-18.54.26:283][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-18.54.26:283][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.24-18.54.26:363][955]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.24-18.56.27:798][831]AssetReimport: New page: Outstanding source content changes 10:56:27 PM
+[2018.10.24-18.56.27:804][831]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp2.wav]
+[2018.10.24-18.56.27:805][831]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp2.wav)
+[2018.10.24-18.56.27:809][831]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:831][832]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp.wav]
+[2018.10.24-18.56.27:832][832]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp.wav)
+[2018.10.24-18.56.27:837][832]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:841][832]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/checkpoint.wav]
+[2018.10.24-18.56.27:842][832]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/checkpoint.wav)
+[2018.10.24-18.56.27:847][832]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:870][833]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond5.wav]
+[2018.10.24-18.56.27:870][833]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond5.wav)
+[2018.10.24-18.56.27:874][833]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:879][833]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond4.wav]
+[2018.10.24-18.56.27:880][833]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond4.wav)
+[2018.10.24-18.56.27:886][833]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:904][834]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond3.wav]
+[2018.10.24-18.56.27:905][834]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond3.wav)
+[2018.10.24-18.56.27:909][834]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:914][834]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond2.wav]
+[2018.10.24-18.56.27:915][834]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond2.wav)
+[2018.10.24-18.56.27:920][834]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:940][835]LogAudioEditor: Performing atomic reimport of [C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond1.wav]
+[2018.10.24-18.56.27:941][835]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond1.wav)
+[2018.10.24-18.56.27:945][835]LogAudioEditor: -- imported successfully
+[2018.10.24-18.56.27:984][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/warp2" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp2.uasset" SILENT=true
+[2018.10.24-18.56.28:005][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/warp2D9E88005476D9004B2CD3396AB95068F.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp2.uasset'
+[2018.10.24-18.56.28:030][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/warp" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp.uasset" SILENT=true
+[2018.10.24-18.56.28:049][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/warpA12D25A14295442E0EBA0DBEF27D4541.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp.uasset'
+[2018.10.24-18.56.28:080][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/checkpoint" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/checkpoint.uasset" SILENT=true
+[2018.10.24-18.56.28:100][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/checkpointDF9A5AD84555C56FE7F577A0EAF3BA67.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/checkpoint.uasset'
+[2018.10.24-18.56.28:133][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/dogBarks/hond5" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond5.uasset" SILENT=true
+[2018.10.24-18.56.28:153][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/hond5E67B6D81492C81B8DE262D9BCC23E305.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond5.uasset'
+[2018.10.24-18.56.28:184][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/dogBarks/hond4" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond4.uasset" SILENT=true
+[2018.10.24-18.56.28:204][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/hond4C6DD3532426AC07285A10283A0C6D70B.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond4.uasset'
+[2018.10.24-18.56.28:232][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/dogBarks/hond3" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond3.uasset" SILENT=true
+[2018.10.24-18.56.28:251][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/hond397914F6C4BF850ECB4FBF28604B271B7.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond3.uasset'
+[2018.10.24-18.56.28:274][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/dogBarks/hond2" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond2.uasset" SILENT=true
+[2018.10.24-18.56.28:295][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/hond210BF168C4CF04FC4F0E3CF9086EE5094.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond2.uasset'
+[2018.10.24-18.56.28:317][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/dogBarks/hond1" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond1.uasset" SILENT=true
+[2018.10.24-18.56.28:336][835]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/hond14D570478441C45D50EEA4381F1FEBB96.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond1.uasset'
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset warp2 from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp2.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset warp from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/warp.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset checkpoint from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/checkpoint.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset hond5 from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond5.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset hond4 from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond4.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset hond3 from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond3.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset hond2 from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond2.wav.
+[2018.10.24-18.56.31:439][182]AssetReimport: Reimported asset hond1 from C:/Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Audio/dogBarks/hond1.wav.
+[2018.10.24-18.56.33:855][450]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Audio/dogBarks/dogBark.dogBark
+[2018.10.24-18.56.43:948][448]LogSlate: Window 'dogBark' being destroyed
+[2018.10.24-18.56.54:984][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Friends" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/Friends.uasset" SILENT=true
+[2018.10.24-18.56.55:026][611]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/FriendsF209FF63406EB24AFF939C9ABE338EAB.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/Friends.uasset'
+[2018.10.24-18.57.08:429][121]LogAIModule: Creating AISystem for world 2
+[2018.10.24-18.57.08:707][121]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/2.2
+[2018.10.24-18.57.08:768][121]Cmd: MAP LOAD FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.24-18.57.08:768][121]LightingResults: New page: Lighting Build
+[2018.10.24-18.57.08:768][121]LoadErrors: New page: Loading map: 2.umap
+[2018.10.24-18.57.08:769][121]MapCheck: New page: Map Check
+[2018.10.24-18.57.08:769][121]LightingResults: New page: Lighting Build
+[2018.10.24-18.57.09:528][121]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.24-18.57.09:623][121]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.24-18.57.09:806][121]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.771ms to complete.
+[2018.10.24-18.57.09:810][121]LogFileHelpers: Loading map '2' took 1.043
+[2018.10.24-18.57.26:771][ 52]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/2.2:PersistentLevel.2
+[2018.10.24-18.57.29:572][270]LogSlate: Window '2 - Level Blueprint Editor' being destroyed
+[2018.10.24-18.57.36:686][ 86]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/2.2:PersistentLevel.2
+[2018.10.24-18.58.28:992][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.24-18.58.30:622][203]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/242DF19E84C4D655E83FED3AB7862BE16.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2.umap'
+[2018.10.24-18.58.30:699][203]LogFileHelpers: Saving map '2' took 1.889
+[2018.10.24-18.58.31:423][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-18.58.31:464][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.58.31:465][277]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-18.58.31:482][277]LogPlayLevel: [PlayLevel] Compiling Friends before play...
+[2018.10.24-18.58.31:702][277]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2018.10.24-18.58.31:703][277]PIE: New page: PIE session: 2 (Oct 24, 2018, 10:58:31 PM)
+[2018.10.24-18.58.31:703][277]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2
+[2018.10.24-18.58.31:806][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103173s)
+[2018.10.24-18.58.31:807][277]LogAIModule: Creating AISystem for world 2
+[2018.10.24-18.58.31:807][277]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2018.10.24-18.58.31:807][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2.2 to /Game/Maps/UEDPIE_0_2.2 (0.104560s)
+[2018.10.24-18.58.31:849][277]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-18.58.31:858][277]LogInit: FAudioDevice initialized.
+[2018.10.24-18.58.31:900][277]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-18.58.31:970][277]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-20.58.31
+[2018.10.24-18.58.31:979][277]LogWorld: Bringing up level for play took: 0.078586
+[2018.10.24-18.58.31:993][277]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2 0.409
+[2018.10.24-18.58.31:994][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.58.32:036][278]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071080 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.24-18.58.35:002][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.58.35:002][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.58.35:066][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-18.58.35:066][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.58.35:108][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.58.35:137][529]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.24-18.58.37:185][734]LogSlate: Window '2* - Level Blueprint Editor' being destroyed
+[2018.10.24-18.58.38:813][918]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-18.58.38:853][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.58.38:853][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-18.58.38:853][918]PIE: New page: PIE session: 2 (Oct 24, 2018, 10:58:38 PM)
+[2018.10.24-18.58.38:853][918]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2
+[2018.10.24-18.58.38:954][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100580s)
+[2018.10.24-18.58.38:955][918]LogAIModule: Creating AISystem for world 2
+[2018.10.24-18.58.38:955][918]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.10.24-18.58.38:955][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2.2 to /Game/Maps/UEDPIE_0_2.2 (0.101790s)
+[2018.10.24-18.58.38:996][918]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-18.58.39:003][918]LogInit: FAudioDevice initialized.
+[2018.10.24-18.58.39:036][918]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-18.58.39:103][918]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-20.58.39
+[2018.10.24-18.58.39:112][918]LogWorld: Bringing up level for play took: 0.074502
+[2018.10.24-18.58.39:126][918]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2 -0.459
+[2018.10.24-18.58.39:126][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.58.52:177][113]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.24-18.59.06:890][313]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.24-18.59.15:837][198]LogAudio: Warning: Detected orphaned looping sound 'wrd_004_Cue'.
+[2018.10.24-18.59.20:871][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-18.59.20:875][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.59.20:877][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.59.20:938][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-18.59.20:938][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.59.20:983][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.59.21:007][721]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.24-18.59.23:621][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-18.59.23:666][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.59.23:666][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-18.59.23:666][ 31]PIE: New page: PIE session: 2 (Oct 24, 2018, 10:59:23 PM)
+[2018.10.24-18.59.23:666][ 31]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2
+[2018.10.24-18.59.23:769][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102578s)
+[2018.10.24-18.59.23:770][ 31]LogAIModule: Creating AISystem for world 2
+[2018.10.24-18.59.23:771][ 31]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2018.10.24-18.59.23:771][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2.2 to /Game/Maps/UEDPIE_0_2.2 (0.104600s)
+[2018.10.24-18.59.23:813][ 31]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-18.59.23:821][ 31]LogInit: FAudioDevice initialized.
+[2018.10.24-18.59.23:854][ 31]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-18.59.23:920][ 31]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-20.59.23
+[2018.10.24-18.59.23:929][ 31]LogWorld: Bringing up level for play took: 0.075085
+[2018.10.24-18.59.23:944][ 31]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2 0.359
+[2018.10.24-18.59.23:945][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.59.42:312][740]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.24-18.59.46:830][ 55]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.24-18.59.47:163][ 77]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.24-18.59.49:977][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-18.59.49:978][273]LogNet: Browse: /Game/Maps/2
+[2018.10.24-18.59.49:989][273]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.24-18.59.50:054][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2
+[2018.10.24-18.59.50:153][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099286s)
+[2018.10.24-18.59.50:154][273]LogAIModule: Creating AISystem for world 2
+[2018.10.24-18.59.50:154][273]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2018.10.24-18.59.50:155][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2.2 to /Game/Maps/UEDPIE_0_2.2 (0.100419s)
+[2018.10.24-18.59.50:155][273]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-18.59.50:242][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-20.59.50
+[2018.10.24-18.59.50:251][273]LogWorld: Bringing up level for play took: 0.096190
+[2018.10.24-18.59.50:252][273]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-18.59.50:253][273]LogLoad: Took 0.264768 seconds to LoadMap(/Game/Maps/UEDPIE_0_2)
+[2018.10.24-18.59.56:629][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.59.56:630][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.59.56:685][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-18.59.56:685][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-18.59.56:728][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-18.59.56:746][954]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.24-19.00.00:397][361]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/2.2:PersistentLevel.2
+[2018.10.24-19.00.07:821][ 40]LogSlate: Window '2* - Level Blueprint Editor' being destroyed
+[2018.10.24-19.00.10:069][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.24-19.00.11:803][295]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/2703EF0F84CA606B35D8542B9B07BAE25.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2.umap'
+[2018.10.24-19.00.11:867][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2_BuiltData" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2_BuiltData.uasset" SILENT=true
+[2018.10.24-19.00.11:900][295]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/2_BuiltData3CD2DD2549DA70F63D5CFAA5C93201F0.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/2_BuiltData.uasset'
+[2018.10.24-19.00.13:283][451]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.00.13:322][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-19.00.13:322][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-19.00.13:322][451]PIE: New page: PIE session: 2 (Oct 24, 2018, 11:00:13 PM)
+[2018.10.24-19.00.13:322][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2
+[2018.10.24-19.00.13:425][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103450s)
+[2018.10.24-19.00.13:426][451]LogAIModule: Creating AISystem for world 2
+[2018.10.24-19.00.13:427][451]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2018.10.24-19.00.13:427][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2.2 to /Game/Maps/UEDPIE_0_2.2 (0.105174s)
+[2018.10.24-19.00.13:472][451]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.00.13:479][451]LogInit: FAudioDevice initialized.
+[2018.10.24-19.00.13:512][451]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.00.13:582][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-21.00.13
+[2018.10.24-19.00.13:591][451]LogWorld: Bringing up level for play took: 0.077588
+[2018.10.24-19.00.13:605][451]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2 0.02
+[2018.10.24-19.00.13:605][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-19.00.15:492][655]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.24-19.00.15:492][655]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.24-19.00.15:667][655]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.24-19.00.15:667][655]LogLoad: Game class is 'MainMenu_C'
+[2018.10.24-19.00.15:669][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.24-21.00.15
+[2018.10.24-19.00.15:669][655]LogWorld: Bringing up level for play took: 0.001314
+[2018.10.24-19.00.15:671][655]LogLoad: Took 0.178677 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.24-19.00.22:197][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-19.00.22:197][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.00.22:238][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.00.22:238][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2.2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2.2:PersistentLevel.2' with GeneratedClass '/Game/Maps/2.2_C' with ClassGeneratedBy '/Game/Maps/2.2:PersistentLevel.2'
+[2018.10.24-19.00.22:279][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.00.22:310][410]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.24-19.01.05:461][379]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Normal_HUD.Normal_HUD
+[2018.10.24-19.03.07:749][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD_BLueprint" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" SILENT=true
+[2018.10.24-19.03.07:802][662]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprintDC27468945F9671D6615E8B882F279C7.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.24-19.03.33:892][731]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Death.Death
+[2018.10.24-19.03.36:904][731]LogSlate: Window 'Save Content' being destroyed
+[2018.10.24-19.03.37:111][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Death" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.24-19.03.37:158][731]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/DeathEF7A9C31484DCE026B7479BE8A9DE79B.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap'
+[2018.10.24-19.03.37:166][731]LogFileHelpers: Saving map 'Death' took 0.252
+[2018.10.24-19.03.37:170][731]Cmd: MAP LOAD FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.24-19.03.37:171][731]LightingResults: New page: Lighting Build
+[2018.10.24-19.03.37:171][731]LoadErrors: New page: Loading map: Death.umap
+[2018.10.24-19.03.37:185][731]MapCheck: New page: Map Check
+[2018.10.24-19.03.37:185][731]LightingResults: New page: Lighting Build
+[2018.10.24-19.03.37:228][731]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.24-19.03.37:228][731]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.03.37:307][731]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.24-19.03.37:488][731]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 181.045ms to complete.
+[2018.10.24-19.03.37:490][731]LogFileHelpers: Loading map 'Death' took 0.322
+[2018.10.24-19.03.40:900][126]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.03.40:947][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-19.03.40:947][126]PIE: New page: PIE session: Death (Oct 24, 2018, 11:03:40 PM)
+[2018.10.24-19.03.40:947][126]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.03.40:948][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000776s)
+[2018.10.24-19.03.40:948][126]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.03.40:949][126]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.10.24-19.03.40:949][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001731s)
+[2018.10.24-19.03.40:988][126]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.03.40:996][126]LogInit: FAudioDevice initialized.
+[2018.10.24-19.03.41:029][126]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.03.41:029][126]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.03.41
+[2018.10.24-19.03.41:030][126]LogWorld: Bringing up level for play took: 0.000314
+[2018.10.24-19.03.41:044][126]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death -0.541
+[2018.10.24-19.03.42:724][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.03.42:760][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.03.42:796][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.03.42:824][325]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.10.24-19.04.08:412][366]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Death.Death:PersistentLevel.Death
+[2018.10.24-19.04.28:947][232]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.24-19.04.34:819][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.04.34:866][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.34:866][835]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-19.04.34:868][835]LogPlayLevel: [PlayLevel] Compiling Death before play...
+[2018.10.24-19.04.34:912][835]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2018.10.24-19.04.34:912][835]PIE: New page: PIE session: Death (Oct 24, 2018, 11:04:34 PM)
+[2018.10.24-19.04.34:912][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.04.34:913][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001330s)
+[2018.10.24-19.04.34:914][835]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.04.34:914][835]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.10.24-19.04.34:914][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.002231s)
+[2018.10.24-19.04.34:954][835]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.04.34:961][835]LogInit: FAudioDevice initialized.
+[2018.10.24-19.04.34:998][835]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.04.34:998][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.04.34
+[2018.10.24-19.04.34:999][835]LogWorld: Bringing up level for play took: 0.000377
+[2018.10.24-19.04.35:015][835]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death -0.57
+[2018.10.24-19.04.35:015][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.36:787][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.36:787][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.04.36:826][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.04.36:826][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.36:866][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.04.36:886][995]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.10.24-19.04.38:071][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Death" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.24-19.04.38:250][ 92]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Death2B4DE84B4D276C902F95189CFF35DB1A.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap'
+[2018.10.24-19.04.38:308][ 92]LogFileHelpers: Saving map 'Death' took 0.420
+[2018.10.24-19.04.39:942][259]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.04.39:947][259]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.04.41:347][415]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.04.41:390][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.41:390][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-19.04.41:390][415]PIE: New page: PIE session: Death (Oct 24, 2018, 11:04:41 PM)
+[2018.10.24-19.04.41:390][415]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.04.41:392][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2018.10.24-19.04.41:392][415]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.04.41:392][415]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.10.24-19.04.41:392][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.002056s)
+[2018.10.24-19.04.41:430][415]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.04.41:437][415]LogInit: FAudioDevice initialized.
+[2018.10.24-19.04.41:473][415]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.04.41:475][415]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.04.41
+[2018.10.24-19.04.41:475][415]LogWorld: Bringing up level for play took: 0.000475
+[2018.10.24-19.04.41:490][415]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death -0.095
+[2018.10.24-19.04.41:490][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.45:026][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.45:026][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.04.45:065][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.04.45:065][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.04.45:103][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.04.45:125][825]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.10.24-19.04.50:209][412]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Death.Death:PersistentLevel.Death
+[2018.10.24-19.04.53:189][651]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.04.53:196][651]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.05.16:772][430]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Death.Death:PersistentLevel.Death
+[2018.10.24-19.05.47:097][702]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.05.47:103][702]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.06.05:256][814]LogEditorTransaction: Undo Paste clipboard contents
+[2018.10.24-19.06.09:623][289]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Death.Death:PersistentLevel.Death
+[2018.10.24-19.06.18:260][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Death" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.24-19.06.18:445][ 53]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/DeathADAF4FD840D7DFB2255FFFAAEFE3F23B.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap'
+[2018.10.24-19.06.18:498][ 53]LogFileHelpers: Saving map 'Death' took 0.424
+[2018.10.24-19.06.19:507][154]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.06.19:512][154]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.06.22:922][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD_BLueprint" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" SILENT=true
+[2018.10.24-19.06.22:959][548]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprint1BF8E082491640A134170E9B871761C1.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.24-19.06.26:823][983]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Death.Death:PersistentLevel.Death
+[2018.10.24-19.06.31:684][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Death" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.24-19.06.31:868][351]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/DeathC15D94ED477B260D54B2A2881267C78F.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Maps/Death.umap'
+[2018.10.24-19.06.31:923][351]LogFileHelpers: Saving map 'Death' took 0.425
+[2018.10.24-19.06.36:555][759]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.06.36:565][759]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.06.38:255][953]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.06.38:297][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.06.38:297][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-19.06.38:329][953]LogPlayLevel: [PlayLevel] Compiling HUD_BLueprint before play...
+[2018.10.24-19.06.38:519][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 222 ms (1 blueprints)
+[2018.10.24-19.06.38:520][953]PIE: New page: PIE session: Death (Oct 24, 2018, 11:06:38 PM)
+[2018.10.24-19.06.38:520][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.06.38:521][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000899s)
+[2018.10.24-19.06.38:521][953]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.06.38:521][953]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2018.10.24-19.06.38:521][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001596s)
+[2018.10.24-19.06.38:557][953]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.06.38:565][953]LogInit: FAudioDevice initialized.
+[2018.10.24-19.06.38:601][953]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.06.38:602][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.06.38
+[2018.10.24-19.06.38:602][953]LogWorld: Bringing up level for play took: 0.000402
+[2018.10.24-19.06.38:617][953]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death 1.032
+[2018.10.24-19.06.38:617][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.06.56:012][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.06.56:012][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.06.56:050][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.06.56:050][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.06.56:085][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.06.56:113][983]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.10.24-19.06.58:807][274]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.24-19.07.10:163][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD_BLueprint" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" SILENT=true
+[2018.10.24-19.07.10:203][608]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprint875D90BC4CE701337FE24C9505C850A2.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.24-19.09.00:369][ 35]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/MainMenu_Widget.MainMenu_Widget
+[2018.10.24-19.10.48:934][528]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2018.10.24-19.11.00:547][862]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.11.00:605][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.11.00:606][862]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-19.11.00:641][862]LogPlayLevel: [PlayLevel] Compiling HUD_BLueprint before play...
+[2018.10.24-19.11.00:859][862]LogPlayLevel: PlayLevel: Blueprint regeneration took 253 ms (1 blueprints)
+[2018.10.24-19.11.00:859][862]PIE: New page: PIE session: Death (Oct 24, 2018, 11:11:00 PM)
+[2018.10.24-19.11.00:859][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.00:860][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000901s)
+[2018.10.24-19.11.00:861][862]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.00:861][862]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2018.10.24-19.11.00:861][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001876s)
+[2018.10.24-19.11.00:899][862]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.11.00:908][862]LogInit: FAudioDevice initialized.
+[2018.10.24-19.11.00:916][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.11.00:982][862]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.00:983][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.00
+[2018.10.24-19.11.00:983][862]LogWorld: Bringing up level for play took: 0.000401
+[2018.10.24-19.11.00:994][862]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.00:998][862]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death -0.586
+[2018.10.24-19.11.00:998][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.11.04:230][181]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.04:230][181]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.04:270][181]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.04:271][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000906s)
+[2018.10.24-19.11.04:272][181]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.04:272][181]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.10.24-19.11.04:272][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001638s)
+[2018.10.24-19.11.04:272][181]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.04:273][181]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.04
+[2018.10.24-19.11.04:273][181]LogWorld: Bringing up level for play took: 0.000414
+[2018.10.24-19.11.04:273][181]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.04:276][181]LogLoad: Took 0.046308 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.05:206][288]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.05:206][288]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.05:244][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.05:245][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000965s)
+[2018.10.24-19.11.05:245][288]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.05:245][288]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.10.24-19.11.05:245][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001758s)
+[2018.10.24-19.11.05:246][288]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.05:246][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.05
+[2018.10.24-19.11.05:247][288]LogWorld: Bringing up level for play took: 0.000501
+[2018.10.24-19.11.05:247][288]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.05:250][288]LogLoad: Took 0.043603 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.08:624][666]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.24-19.11.08:625][666]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.24-19.11.08:732][666]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.24-19.11.08:733][666]LogLoad: Game class is 'MainMenu_C'
+[2018.10.24-19.11.08:735][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.24-21.11.08
+[2018.10.24-19.11.08:735][666]LogWorld: Bringing up level for play took: 0.001413
+[2018.10.24-19.11.08:737][666]LogLoad: Took 0.112355 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.24-19.11.10:842][904]LogNet: Browse: /Game/Maps/2
+[2018.10.24-19.11.10:842][904]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.24-19.11.11:598][904]LogAIModule: Creating AISystem for world 2
+[2018.10.24-19.11.11:598][904]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.12:085][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-21.11.12
+[2018.10.24-19.11.12:094][904]LogWorld: Bringing up level for play took: 0.495083
+[2018.10.24-19.11.12:095][904]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.12:097][904]LogLoad: Took 1.254685 seconds to LoadMap(/Game/Maps/2)
+[2018.10.24-19.11.12:114][905]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069754 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.24-19.11.24:521][857]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.24-19.11.39:665][896]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.24-19.11.47:379][515]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.47:386][515]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.47:458][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.47:459][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000934s)
+[2018.10.24-19.11.47:460][515]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.47:460][515]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.10.24-19.11.47:460][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001664s)
+[2018.10.24-19.11.47:460][515]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.47:461][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.47
+[2018.10.24-19.11.47:461][515]LogWorld: Bringing up level for play took: 0.000368
+[2018.10.24-19.11.47:461][515]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.47:464][515]LogLoad: Took 0.077864 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.52:990][124]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.52:990][124]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.53:026][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.53:027][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000904s)
+[2018.10.24-19.11.53:028][124]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.53:028][124]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.10.24-19.11.53:028][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001633s)
+[2018.10.24-19.11.53:028][124]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.53:029][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.53
+[2018.10.24-19.11.53:029][124]LogWorld: Bringing up level for play took: 0.000534
+[2018.10.24-19.11.53:030][124]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.53:033][124]LogLoad: Took 0.042330 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.53:734][203]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.53:734][203]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.53:775][203]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.53:776][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000924s)
+[2018.10.24-19.11.53:776][203]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.53:776][203]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.10.24-19.11.53:776][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001703s)
+[2018.10.24-19.11.53:776][203]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.53:777][203]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.53
+[2018.10.24-19.11.53:778][203]LogWorld: Bringing up level for play took: 0.000480
+[2018.10.24-19.11.53:778][203]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.53:781][203]LogLoad: Took 0.046503 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.54:047][232]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.54:047][232]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.54:090][232]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.54:091][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000934s)
+[2018.10.24-19.11.54:091][232]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.54:092][232]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.10.24-19.11.54:092][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001829s)
+[2018.10.24-19.11.54:092][232]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.54:093][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.54
+[2018.10.24-19.11.54:093][232]LogWorld: Bringing up level for play took: 0.000550
+[2018.10.24-19.11.54:093][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.54:096][232]LogLoad: Took 0.048257 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.56:114][451]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.56:114][451]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.56:154][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.56:155][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000889s)
+[2018.10.24-19.11.56:155][451]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.56:155][451]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.10.24-19.11.56:155][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001714s)
+[2018.10.24-19.11.56:155][451]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.56:156][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.56
+[2018.10.24-19.11.56:156][451]LogWorld: Bringing up level for play took: 0.000411
+[2018.10.24-19.11.56:157][451]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.56:159][451]LogLoad: Took 0.044787 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.56:764][518]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.56:764][518]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.56:806][518]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.56:807][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000924s)
+[2018.10.24-19.11.56:807][518]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.56:807][518]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.10.24-19.11.56:807][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001691s)
+[2018.10.24-19.11.56:807][518]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.56:808][518]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.56
+[2018.10.24-19.11.56:808][518]LogWorld: Bringing up level for play took: 0.000415
+[2018.10.24-19.11.56:809][518]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.56:811][518]LogLoad: Took 0.046606 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.57:658][610]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.57:658][610]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.57:692][610]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.57:693][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000892s)
+[2018.10.24-19.11.57:693][610]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.57:694][610]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.10.24-19.11.57:694][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001646s)
+[2018.10.24-19.11.57:694][610]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.57:694][610]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.57
+[2018.10.24-19.11.57:695][610]LogWorld: Bringing up level for play took: 0.000420
+[2018.10.24-19.11.57:696][610]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.57:699][610]LogLoad: Took 0.040091 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.57:945][637]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.57:945][637]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.57:987][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.57:988][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000998s)
+[2018.10.24-19.11.57:989][637]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.57:989][637]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.10.24-19.11.57:989][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001752s)
+[2018.10.24-19.11.57:989][637]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.57:990][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.57
+[2018.10.24-19.11.57:990][637]LogWorld: Bringing up level for play took: 0.000394
+[2018.10.24-19.11.57:991][637]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.57:993][637]LogLoad: Took 0.048249 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.58:874][733]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.58:874][733]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.58:915][733]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.58:916][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000876s)
+[2018.10.24-19.11.58:917][733]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.58:917][733]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2018.10.24-19.11.58:917][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001671s)
+[2018.10.24-19.11.58:917][733]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.58:918][733]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.58
+[2018.10.24-19.11.58:918][733]LogWorld: Bringing up level for play took: 0.000460
+[2018.10.24-19.11.58:918][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.58:921][733]LogLoad: Took 0.047382 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.11.59:167][760]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.11.59:167][760]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.11.59:206][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.11.59:207][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000938s)
+[2018.10.24-19.11.59:207][760]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.11.59:207][760]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.10.24-19.11.59:207][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001699s)
+[2018.10.24-19.11.59:207][760]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.11.59:208][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.11.59
+[2018.10.24-19.11.59:209][760]LogWorld: Bringing up level for play took: 0.000445
+[2018.10.24-19.11.59:209][760]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.11.59:212][760]LogLoad: Took 0.044186 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.12.03:539][223]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.24-19.12.03:539][223]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.24-19.12.03:652][223]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.24-19.12.03:653][223]LogLoad: Game class is 'MainMenu_C'
+[2018.10.24-19.12.03:654][223]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.24-21.12.03
+[2018.10.24-19.12.03:655][223]LogWorld: Bringing up level for play took: 0.001187
+[2018.10.24-19.12.03:656][223]LogLoad: Took 0.117707 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.24-19.12.05:462][415]LogSlate: Window 'GameFiles Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-19.12.05:475][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.12.05:510][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.12.05:510][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.12.05:575][416]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.10.24-19.12.14:791][518]LogEditorTransaction: Undo Change String Pin Value
+[2018.10.24-19.12.15:170][549]LogEditorTransaction: Undo Create Pin Link
+[2018.10.24-19.12.15:467][584]LogEditorTransaction: Undo Change String Pin Value
+[2018.10.24-19.12.15:815][620]LogEditorTransaction: Undo Create Pin Link
+[2018.10.24-19.12.16:162][656]LogEditorTransaction: Undo Delete current selection
+[2018.10.24-19.12.16:512][692]LogEditorTransaction: Undo Move Node
+[2018.10.24-19.12.16:933][736]LogEditorTransaction: Undo Move Nodes
+[2018.10.24-19.12.17:407][787]LogEditorTransaction: Undo Create Pin Link
+[2018.10.24-19.12.17:723][819]LogEditorTransaction: Undo Add Node
+[2018.10.24-19.12.18:779][940]LogEditorTransaction: Undo Resize Node
+[2018.10.24-19.12.20:829][174]LogEditorTransaction: Redo Resize Node
+[2018.10.24-19.12.22:829][407]LogEditorTransaction: Undo Resize Node
+[2018.10.24-19.12.26:005][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD_BLueprint" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" SILENT=true
+[2018.10.24-19.12.26:047][776]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprint0228DF8C4DE8AFF84D513C84BCFDC555.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.24-19.17.54:606][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Death' took 0.047
+[2018.10.24-19.17.54:611][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD_BLueprint] ([1] browsable assets)...
+[2018.10.24-19.17.54:611][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD_BLueprint]
+[2018.10.24-19.17.54:654][339]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprint_Auto13C4AA9BF4E15CFB320E7A0A9F3866C62.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Autosaves/Game/Blueprints/HUD_BLueprint_Auto1.uasset'
+[2018.10.24-19.17.54:660][339]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.10.24-19.22.04:190][531]LogEditorTransaction: Undo Move Node
+[2018.10.24-19.22.30:321][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.22.30:367][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.22.30:368][633]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-19.22.30:386][633]LogPlayLevel: [PlayLevel] Compiling HUD_BLueprint before play...
+[2018.10.24-19.22.30:405][633]LogBlueprint: Error: [Compiler HUD_BLueprint] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.10.24-19.22.30:408][633]LogBlueprint: Warning: [Compiler HUD_BLueprint] [1895.71] Compile of HUD_BLueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 33 ms] (/Game/Blueprints/HUD_BLueprint.HUD_BLueprint)
+[2018.10.24-19.22.30:603][633]LogPlayLevel: PlayLevel: Blueprint regeneration took 235 ms (1 blueprints)
+[2018.10.24-19.22.30:603][633]BlueprintLog: Blueprint HUD_BLueprint failed to compile
+[2018.10.24-19.22.34:063][633]LogSlate: Window 'Message' being destroyed
+[2018.10.24-19.22.55:704][211]BlueprintLog: New page: Compile HUD_BLueprint
+[2018.10.24-19.22.57:686][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD_BLueprint" FILE="../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset" SILENT=true
+[2018.10.24-19.22.57:726][417]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprintED5E3807466D33191B9CD5884294C979.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Content/Blueprints/HUD_BLueprint.uasset'
+[2018.10.24-19.23.04:852][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.23.04:899][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.04:900][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-19.23.04:900][261]PIE: New page: PIE session: Death (Oct 24, 2018, 11:23:04 PM)
+[2018.10.24-19.23.04:900][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.23.04:901][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000915s)
+[2018.10.24-19.23.04:901][261]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.23.04:901][261]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.10.24-19.23.04:901][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001665s)
+[2018.10.24-19.23.04:943][261]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.23.04:952][261]LogInit: FAudioDevice initialized.
+[2018.10.24-19.23.04:960][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.23.05:027][261]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.23.05:028][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.23.05
+[2018.10.24-19.23.05:029][261]LogWorld: Bringing up level for play took: 0.000570
+[2018.10.24-19.23.05:043][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.23.05:048][261]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death -0.537
+[2018.10.24-19.23.05:048][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.10:259][764]LogSlate: Window 'GameFiles Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-19.23.10:268][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.10:303][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.23.10:303][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.10:363][765]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.10.24-19.23.13:849][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.23.13:894][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.13:894][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.24-19.23.13:894][173]PIE: New page: PIE session: Death (Oct 24, 2018, 11:23:13 PM)
+[2018.10.24-19.23.13:894][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.23.13:895][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2018.10.24-19.23.13:896][173]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.23.13:896][173]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.10.24-19.23.13:896][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001652s)
+[2018.10.24-19.23.13:930][173]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.23.13:938][173]LogInit: FAudioDevice initialized.
+[2018.10.24-19.23.13:946][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.24-19.23.14:009][173]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.23.14:010][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.23.14
+[2018.10.24-19.23.14:010][173]LogWorld: Bringing up level for play took: 0.000436
+[2018.10.24-19.23.14:024][173]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.23.14:028][173]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Death 0.444
+[2018.10.24-19.23.14:029][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.16:666][451]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.23.16:666][451]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.23.16:706][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.23.16:708][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001022s)
+[2018.10.24-19.23.16:708][451]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.23.16:708][451]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2018.10.24-19.23.16:708][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001867s)
+[2018.10.24-19.23.16:708][451]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.23.16:709][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.23.16
+[2018.10.24-19.23.16:709][451]LogWorld: Bringing up level for play took: 0.000435
+[2018.10.24-19.23.16:710][451]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.23.16:713][451]LogLoad: Took 0.045960 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.23.17:766][568]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.24-19.23.17:766][568]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.24-19.23.17:877][568]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.24-19.23.17:878][568]LogLoad: Game class is 'MainMenu_C'
+[2018.10.24-19.23.17:879][568]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.24-21.23.17
+[2018.10.24-19.23.17:879][568]LogWorld: Bringing up level for play took: 0.001340
+[2018.10.24-19.23.17:881][568]LogLoad: Took 0.115237 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.24-19.23.19:742][778]LogNet: Browse: /Game/Maps/2
+[2018.10.24-19.23.19:742][778]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.24-19.23.20:475][778]LogAIModule: Creating AISystem for world 2
+[2018.10.24-19.23.20:475][778]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.23.20:955][778]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.24-21.23.20
+[2018.10.24-19.23.20:964][778]LogWorld: Bringing up level for play took: 0.488160
+[2018.10.24-19.23.20:964][778]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.23.20:967][778]LogLoad: Took 1.224387 seconds to LoadMap(/Game/Maps/2)
+[2018.10.24-19.23.20:985][779]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068318 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.24-19.23.31:808][576]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.24-19.23.32:143][597]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.24-19.23.32:160][598]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.23.32:173][598]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.23.32:246][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.23.32:247][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001232s)
+[2018.10.24-19.23.32:248][598]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.23.32:248][598]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.10.24-19.23.32:248][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.002166s)
+[2018.10.24-19.23.32:248][598]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.23.32:249][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.23.32
+[2018.10.24-19.23.32:249][598]LogWorld: Bringing up level for play took: 0.000364
+[2018.10.24-19.23.32:249][598]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.23.32:252][598]LogLoad: Took 0.078693 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.23.36:151][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.23.36:154][ 26]LogNet: Browse: /Game/Maps/Death
+[2018.10.24-19.23.36:154][ 26]LogLoad: LoadMap: /Game/Maps/Death
+[2018.10.24-19.23.36:192][ 26]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Death
+[2018.10.24-19.23.36:193][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000949s)
+[2018.10.24-19.23.36:193][ 26]LogAIModule: Creating AISystem for world Death
+[2018.10.24-19.23.36:193][ 26]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.10.24-19.23.36:193][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Death.Death to /Game/Maps/UEDPIE_0_Death.Death (0.001705s)
+[2018.10.24-19.23.36:193][ 26]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.24-19.23.36:194][ 26]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Death.Death up for play (max tick rate 0) at 2018.10.24-21.23.36
+[2018.10.24-19.23.36:194][ 26]LogWorld: Bringing up level for play took: 0.000373
+[2018.10.24-19.23.36:195][ 26]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.24-19.23.36:198][ 26]LogLoad: Took 0.044008 seconds to LoadMap(/Game/Maps/UEDPIE_0_Death)
+[2018.10.24-19.23.38:115][234]LogSlate: Window 'GameFiles Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.24-19.23.38:126][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.38:159][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.24-19.23.38:160][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Death.Death:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Death.Death:PersistentLevel.Death' with GeneratedClass '/Game/Maps/Death.Death_C' with ClassGeneratedBy '/Game/Maps/Death.Death:PersistentLevel.Death'
+[2018.10.24-19.23.38:213][235]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.10.24-19.23.59:534][776]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Death_Screen.Death_Screen
+[2018.10.24-19.24.17:319][783]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Death.Death:PersistentLevel.Death
+[2018.10.24-19.24.41:066][  4]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.24.41:072][  4]LogSlate: Window 'Death - Level Blueprint Editor' being destroyed
+[2018.10.24-19.26.47:330][950]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2018.10.24-19.28.27:371][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Death' took 0.045
+[2018.10.24-19.28.27:376][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD_BLueprint] ([1] browsable assets)...
+[2018.10.24-19.28.27:376][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD_BLueprint]
+[2018.10.24-19.28.27:421][852]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprint_Auto2E1DE63E848F53E71BB72EDA008A36419.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Autosaves/Game/Blueprints/HUD_BLueprint_Auto2.uasset'
+[2018.10.24-19.28.27:428][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD_messages/Death_Screen] ([1] browsable assets)...
+[2018.10.24-19.28.27:428][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_messages/Death_Screen]
+[2018.10.24-19.28.27:455][852]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Death_Screen_Auto23793ADE9489EF1C84C953D9B5669A6CD.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Autosaves/Game/HUD_messages/Death_Screen_Auto2.uasset'
+[2018.10.24-19.28.27:461][852]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.10.24-19.32.35:236][  2]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetStringLibrary::Conv_StringToName' [Element not found.]
+[2018.10.24-19.32.58:573][653]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetStringLibrary::Conv_StringToName' [Element not found.]
+[2018.10.24-19.32.58:850][680]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetStringLibrary::Conv_StringToName' [Element not found.]
+[2018.10.24-19.33.31:953][500]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetStringLibrary::Conv_StringToName' [Element not found.]
+[2018.10.24-19.33.52:403][859]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetGameInstance' [Element not found.]
+[2018.10.24-19.44.40:375][163]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Death' took 0.056
+[2018.10.24-19.44.40:379][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD_BLueprint] ([1] browsable assets)...
+[2018.10.24-19.44.40:379][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD_BLueprint]
+[2018.10.24-19.44.40:447][163]LogSavePackage: Moving '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/HUD_BLueprint_Auto38C093C8A479722F69EB868870D75E87A.tmp' to '../../../../../../Users/20173771/Documents/GitHub/Shadow_Game/GameFiles/Saved/Autosaves/Game/Blueprints/HUD_BLueprint_Auto3.uasset'
+[2018.10.24-19.44.40:455][163]LogFileHelpers: Auto-saving content packages took 0.079
+[2018.10.24-19.46.36:553][597]LogEditorTransaction: Undo Create Pin Link
+[2018.10.24-19.46.36:571][597]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.010 s
+[2018.10.24-19.46.36:571][597]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.24-19.46.36:571][597]LogOutputDevice: Error: 
+[2018.10.24-19.46.36:571][597]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.10.24-19.46.36:571][597]LogOutputDevice: Error: 
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: Stack: 
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa9c5d71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa9c310c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa9c32b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa81dff198 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa802a4c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa802d01fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa802b6535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa80322dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa80369b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa802fc81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa7ee405b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa92d424df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa92d8437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa80b53a6e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa80b41a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa92d070ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa92d8606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffa92d79846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffabc37ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffabc370270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffabc37f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffabc36c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffaf04cb85d USER32.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffaf04cb1ef USER32.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffabc380646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ff6193454e5 UE4Editor.exe!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ff619355b3c UE4Editor.exe!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ff619355bba UE4Editor.exe!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ff619363dac UE4Editor.exe!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ff619365aaa UE4Editor.exe!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffaefd91fe4 KERNEL32.DLL!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: [Callstack] 0x00007ffaf206cb31 ntdll.dll!UnknownFunction []
+[2018.10.24-19.46.36:572][597]LogOutputDevice: Error: 
+[2018.10.24-19.46.36:577][597]LogStats:                SubmitErrorReport -  0.000 s
