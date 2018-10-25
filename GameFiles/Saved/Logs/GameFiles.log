@@ -598,3 +598,864 @@ LogInit: Object subsystem initialized
 [2018.10.25-11.58.07:167][414]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/MainMenu_BuiltDataE5F896E8482DC344203695B18638F511.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/MainMenu_BuiltData.uasset'
 [2018.10.25-11.58.45:932][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.10.25-11.59.20:078][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.02.16:815][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.02.16:997][604]AssetReimport: New page: Outstanding source content changes 16:02:16
+[2018.10.25-12.02.17:010][604]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx)
+[2018.10.25-12.02.17:040][604]LogFbx: Loading FBX Scene from C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx
+[2018.10.25-12.02.17:055][604]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.25-12.02.26:381][604]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.25-12.02.26:782][604]LogStaticMesh: Building static mesh Cube_Dog_Bright...
+[2018.10.25-12.02.26:793][604]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Cube_Dog_Bright.Cube_Dog_Bright
+[2018.10.25-12.02.26:821][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.02.26:970][605]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Cube_Dog_Bright8C7C6C484D8F7FD47EDD05A8E5936405.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube_Dog_Bright.uasset'
+[2018.10.25-12.02.30:006][710]AssetReimport: Importing new asset /Game/Mesh/Cube_Dog_Bright.
+[2018.10.25-12.02.30:711][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.03.00:882][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.03.18:035][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.03.24:471][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.03.24:568][ 88]BlueprintLog: New page: Compile Friends
+[2018.10.25-12.03.25:402][105]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/FriendsE20AB3AA40FD0F6A25DE54BECBC66E9A.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friends.uasset'
+[2018.10.25-12.05.21:697][482]LogSlate: Window 'Message Log' being destroyed
+[2018.10.25-12.05.21:703][482]LogSlate: Window 'Message Log' being destroyed
+[2018.10.25-12.05.23:510][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.05.33:330][831]LogAssetEditorManager: Opening Asset editor for Material /Game/Mesh/Material_001.Material_001
+[2018.10.25-12.05.33:341][831]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.10.25-12.05.33:881][831]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.10.25-12.05.33:901][831]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.10.25-12.05.33:932][831]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.25-12.05.33:932][831]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.25-12.05.33:932][831]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.25-12.05.33:932][831]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.25-12.05.33:948][831]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.25-12.05.34:965][860]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.25-12.05.35:156][866]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.25-12.05.35:156][866]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.25-12.05.35:156][866]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.25-12.05.35:471][877]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.25-12.05.35:590][881]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.25-12.05.35:619][882]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.25-12.05.35:645][883]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.25-12.05.35:918][894]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.25-12.05.36:289][905]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.25-12.05.36:766][921]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.25-12.05.36:896][925]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.25-12.05.37:104][932]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.25-12.05.37:457][944]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.25-12.05.37:618][949]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.25-12.05.38:165][967]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.25-12.05.38:295][971]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.25-12.05.38:580][981]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.25-12.05.38:741][986]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.25-12.05.39:364][  8]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.10.25-12.05.39:364][  8]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.10.25-12.05.39:364][  8]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.25-12.05.39:364][  8]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.25-12.05.48:118][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.06.00:416][484]LogSlate: Window 'Material_001*' being destroyed
+[2018.10.25-12.06.00:430][484]LogSlate: Window 'Material_001*' being destroyed
+[2018.10.25-12.06.37:662][555]LogSlate: Window 'Message' being destroyed
+[2018.10.25-12.06.37:678][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx)
+[2018.10.25-12.06.37:683][555]LogEditorFactories: Performing atomic reimport of [C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx]
+[2018.10.25-12.06.37:700][555]LogFbx: Loading FBX Scene from C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx
+[2018.10.25-12.06.37:709][555]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.25-12.06.37:713][555]LogFbx: Warning: Triangulating static mesh Cube
+[2018.10.25-12.06.37:714][555]LogStaticMesh: Building static mesh Cube_Dog_Bright...
+[2018.10.25-12.06.37:718][555]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Cube_Dog_Bright.Cube_Dog_Bright
+[2018.10.25-12.06.37:728][555]LogEditorFactories: -- imported successfully
+[2018.10.25-12.06.37:746][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.25-12.08.17:200][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.091
+[2018.10.25-12.08.17:206][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_001] ([1] browsable assets)...
+[2018.10.25-12.08.17:344][205]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_001.Material_001]
+[2018.10.25-12.08.17:345][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_001]
+[2018.10.25-12.08.17:395][205]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Material_001_Auto1C392FD5E4293193B68E2EFBDC71DD4AA.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Mesh/Material_001_Auto1.uasset'
+[2018.10.25-12.08.17:418][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Cube_Dog_Bright] ([1] browsable assets)...
+[2018.10.25-12.08.17:554][205]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Cube_Dog_Bright.Cube_Dog_Bright]
+[2018.10.25-12.08.17:554][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Cube_Dog_Bright]
+[2018.10.25-12.08.17:661][205]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Cube_Dog_Bright_Auto1FC5DCD8849F22D21329EC1BF1E8DDFA4.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Mesh/Cube_Dog_Bright_Auto1.uasset'
+[2018.10.25-12.08.17:674][205]LogFileHelpers: Auto-saving content packages took 0.472
+[2018.10.25-12.10.36:713][693]LogSlate: Window 'Message' being destroyed
+[2018.10.25-12.10.47:172][850]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.25-12.10.54:773][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.25-12.10.58:891][139]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.25-12.11.01:782][201]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx)
+[2018.10.25-12.11.01:796][201]LogFbx: Loading FBX Scene from ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Mesh/Cube Dog Bright.fbx
+[2018.10.25-12.11.01:804][201]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.25-12.11.35:555][201]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.25-12.11.35:647][201]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.10.25-12.11.35:664][201]LogFbx: Warning: Triangulating static mesh Cube
+[2018.10.25-12.11.35:669][201]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.25-12.11.35:669][201]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.25-12.11.35:669][201]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.25-12.11.35:669][201]LogStaticMesh: Building static mesh Cube_Dog_Bright...
+[2018.10.25-12.11.35:673][201]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Cube_Dog_Bright.Cube_Dog_Bright
+[2018.10.25-12.11.35:687][201]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.25-12.11.39:475][374]LogSlate: Window 'Message Log' being destroyed
+[2018.10.25-12.11.39:479][374]LogSlate: Window 'Message Log' being destroyed
+[2018.10.25-12.11.47:164][606]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.25-12.11.50:430][673]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.25-12.12.23:112][ 11]AssetReimport: New page: Outstanding source content changes 16:12:23
+[2018.10.25-12.12.23:137][ 12]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Retry Sign.png)
+[2018.10.25-12.12.23:234][ 13]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Next Sign.png)
+[2018.10.25-12.12.23:297][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Home sign.png)
+[2018.10.25-12.12.23:335][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Exit Sign.png)
+[2018.10.25-12.12.23:428][ 16]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Retry_Sign919673C541B06C08EE97E2A2847ECE7D.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Retry_Sign.uasset'
+[2018.10.25-12.12.23:469][ 16]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Next_Sign26676A684551CEA6E23BA2858B83E3E6.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Next_Sign.uasset'
+[2018.10.25-12.12.23:502][ 16]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Home_sign48B07A9C45CB8EC82FA9738D3DE6D749.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Home_sign.uasset'
+[2018.10.25-12.12.23:527][ 16]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Exit_SignEC37C537499CA462C88966B8ADA76DAD.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Exit_Sign.uasset'
+[2018.10.25-12.12.26:560][185]AssetReimport: Importing new asset /Game/Art/Retry_Sign.
+[2018.10.25-12.12.26:560][185]AssetReimport: Importing new asset /Game/Art/Next_Sign.
+[2018.10.25-12.12.26:560][185]AssetReimport: Importing new asset /Game/Art/Home_sign.
+[2018.10.25-12.12.26:560][185]AssetReimport: Importing new asset /Game/Art/Exit_Sign.
+[2018.10.25-12.12.45:120][ 33]BlueprintLog: New page: Compile Win_Screen
+[2018.10.25-12.12.45:910][ 57]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Win_Screen547A2E61478E501F3C6DE5A128533D01.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/HUD_messages/Win_Screen.uasset'
+[2018.10.25-12.13.04:960][990]BlueprintLog: New page: Compile Win_Screen
+[2018.10.25-12.13.05:691][ 20]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Win_ScreenF9D10F76497CDB8556A60694A4A87703.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/HUD_messages/Win_Screen.uasset'
+[2018.10.25-12.13.15:594][507]BlueprintLog: New page: Compile MainMenu_Widget
+[2018.10.25-12.13.16:386][544]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/MainMenu_Widget559160414A63E0764661E883B6F99665.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/HUD_messages/MainMenu_Widget.uasset'
+[2018.10.25-12.13.20:029][727]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.13.20:117][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.13.20:118][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.13.20:118][727]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:13:20)
+[2018.10.25-12.13.20:118][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.13.20:121][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002643s)
+[2018.10.25-12.13.20:121][727]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.13.20:122][727]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.10.25-12.13.20:122][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003711s)
+[2018.10.25-12.13.20:171][727]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.13.20:180][727]LogInit: FAudioDevice initialized.
+[2018.10.25-12.13.20:211][727]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.13.20:212][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.25-14.13.20
+[2018.10.25-12.13.20:213][727]LogWorld: Bringing up level for play took: 0.000662
+[2018.10.25-12.13.20:227][727]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,01
+[2018.10.25-12.13.20:228][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.13.22:317][804]LogNet: Browse: /Game/Maps/1
+[2018.10.25-12.13.22:343][804]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.25-12.13.23:264][804]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.13.23:264][804]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.13.23:271][804]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 60) at 2018.10.25-14.13.23
+[2018.10.25-12.13.23:272][804]LogWorld: Bringing up level for play took: 0.006601
+[2018.10.25-12.13.23:274][804]LogLoad: Took 0.931706 seconds to LoadMap(/Game/Maps/1)
+[2018.10.25-12.13.35:690][226]LogCharacterMovement: TopDownCharacter_C_0 is stuck and failed to move! Velocity: X=0.17 Y=600.00 Z=0.00 Location: X=-450.00 Y=-1420.00 Z=30.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:86.000 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.25-12.13.38:097][303]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.13.38:834][330]LogAudio: Warning: Detected orphaned looping sound 'wrd_004_Cue'.
+[2018.10.25-12.13.43:107][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.13.43:240][499]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.13.43:263][499]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.13.44:306][499]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.13.44:307][499]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.13.44:852][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 60) at 2018.10.25-14.13.44
+[2018.10.25-12.13.44:863][499]LogWorld: Bringing up level for play took: 0.554966
+[2018.10.25-12.13.44:863][499]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.13.44:865][499]LogLoad: Took 1.602639 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.13.44:888][500]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.084562 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.13.47:100][573]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.13.47:100][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.13.47:229][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.13.47:230][573]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.13.47:364][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.13.47:415][574]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.10.25-12.13.53:904][941]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Death_Screen.Death_Screen
+[2018.10.25-12.14.04:251][416]BlueprintLog: New page: Compile Death_Screen
+[2018.10.25-12.14.05:000][448]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Death_ScreenC9DD3C2B48582DCC324ECBA1272C3FA4.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/HUD_messages/Death_Screen.uasset'
+[2018.10.25-12.14.14:009][908]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD_messages/Normal_HUD.Normal_HUD
+[2018.10.25-12.14.33:136][836]BlueprintLog: New page: Compile Normal_HUD
+[2018.10.25-12.14.33:993][861]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Normal_HUD0401F2CA4BDFC0BB39D7B7B90CAE52EE.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/HUD_messages/Normal_HUD.uasset'
+[2018.10.25-12.14.36:567][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.14.36:627][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.14.36:627][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.14.36:627][999]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:14:36)
+[2018.10.25-12.14.36:628][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.14.36:630][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002620s)
+[2018.10.25-12.14.36:631][999]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.14.36:631][999]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.10.25-12.14.36:631][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003658s)
+[2018.10.25-12.14.36:688][999]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.14.36:696][999]LogInit: FAudioDevice initialized.
+[2018.10.25-12.14.36:728][999]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.14.36:730][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.25-14.14.36
+[2018.10.25-12.14.36:730][999]LogWorld: Bringing up level for play took: 0.000682
+[2018.10.25-12.14.36:746][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,528
+[2018.10.25-12.14.36:746][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.14.38:783][ 70]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.14.38:787][ 70]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.14.39:832][ 70]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.14.39:832][ 70]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.14.40:388][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 60) at 2018.10.25-14.14.40
+[2018.10.25-12.14.40:399][ 70]LogWorld: Bringing up level for play took: 0.566098
+[2018.10.25-12.14.40:399][ 70]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.14.40:401][ 70]LogLoad: Took 1.614216 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.14.40:454][ 71]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078209 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.14.50:931][352]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.25-12.14.50:933][352]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.25-12.14.51:374][364]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.25-12.14.55:739][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.14.55:867][475]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.14.55:900][475]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.14.57:008][475]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.14.57:008][475]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.14.57:555][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 60) at 2018.10.25-14.14.57
+[2018.10.25-12.14.57:566][475]LogWorld: Bringing up level for play took: 0.556734
+[2018.10.25-12.14.57:566][475]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.14.57:568][475]LogLoad: Took 1.668373 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.14.57:622][476]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.15.08:075][758]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.25-12.15.08:115][759]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.25-12.15.09:056][782]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.25-12.15.09:097][783]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.25-12.15.14:126][906]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.25-12.15.15:087][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.15.15:216][940]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.15.15:243][940]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.15.16:207][940]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.15.16:207][940]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.15.16:753][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 60) at 2018.10.25-14.15.16
+[2018.10.25-12.15.16:763][940]LogWorld: Bringing up level for play took: 0.555550
+[2018.10.25-12.15.16:764][940]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.15.16:766][940]LogLoad: Took 1.522857 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.15.16:818][941]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.090829 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.15.32:990][406]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.25-12.15.33:032][407]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter
+[2018.10.25-12.15.34:053][432]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.25-12.15.34:094][433]LogBlueprintUserMessages: [Move_Enemy_2] TopDownCharacter_2
+[2018.10.25-12.15.36:614][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.15.36:615][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.15.36:751][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.15.36:752][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.15.36:881][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.15.36:953][495]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.10.25-12.17.14:707][577]AssetReimport: New page: Outstanding source content changes 16:17:14
+[2018.10.25-12.17.14:709][577]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog8.png)
+[2018.10.25-12.17.14:734][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog7.png)
+[2018.10.25-12.17.14:750][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog6.png)
+[2018.10.25-12.17.14:776][579]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog5.png)
+[2018.10.25-12.17.14:791][579]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog4.png)
+[2018.10.25-12.17.14:824][580]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog3.png)
+[2018.10.25-12.17.14:839][580]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog2.png)
+[2018.10.25-12.17.14:870][581]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly Dog1.png)
+[2018.10.25-12.17.14:952][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog8CF3B618747995743446F5B800EF53D4B.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog8.uasset'
+[2018.10.25-12.17.14:995][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog79367B7FD47872C9449A17285BA684C61.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog7.uasset'
+[2018.10.25-12.17.15:031][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog6C4871D414AF6D09A95EBCF97E48879C4.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog6.uasset'
+[2018.10.25-12.17.15:064][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog58EFAF0C2498DAB8FACBD239C10C0E45A.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog5.uasset'
+[2018.10.25-12.17.15:096][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog46FA060354E4B4297726552908AFD42D4.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog4.uasset'
+[2018.10.25-12.17.15:121][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog36B08B8144ED79C97648B4FA46F7AB717.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog3.uasset'
+[2018.10.25-12.17.15:145][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog2EE25FFA6419EF6312BD3CBB8AA3E4DD8.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog2.uasset'
+[2018.10.25-12.17.15:164][582]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog147BB474B4B074BD3F3D2CABBE7B24B70.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog1.uasset'
+[2018.10.25-12.17.18:291][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog8.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog7.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog6.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog5.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog4.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog3.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog2.
+[2018.10.25-12.17.18:292][766]AssetReimport: Importing new asset /Game/Art/Friendly_Dog1.
+[2018.10.25-12.17.54:644][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.17.54:971][689]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/MainMenuF63F5D7A44C23346CEE520A3EE3092FF.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/MainMenu.umap'
+[2018.10.25-12.17.55:058][689]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/MainMenu_BuiltDataCF2441C44BA3ECC1FFA3B187A3D198AD.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/MainMenu_BuiltData.uasset'
+[2018.10.25-12.18.14:486][488]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Blueprints/Friend.Friend
+[2018.10.25-12.18.17:011][578]LogRenderer: Reallocating scene render targets to support 1524x736 Format 10 NumSamples 1 (Frame:94).
+[2018.10.25-12.18.17:528][607]LogSlate: Window 'Friend*' being destroyed
+[2018.10.25-12.19.36:176][120]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friend74492780424CF7506CF44F99AD240489.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset'
+[2018.10.25-12.20.21:835][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.20.40:701][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.20.48:478][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.20.52:482][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.20.59:217][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.21.01:033][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.21.11:838][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.21.11:909][941]BlueprintLog: New page: Compile Friends
+[2018.10.25-12.21.12:613][955]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friends5C4BB8564D9AFF6ACEFA40BC1ABE278A.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friends.uasset'
+[2018.10.25-12.21.13:313][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.21.14:848][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.21.14:936][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.21.14:936][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.21.14:937][ 67]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:21:14)
+[2018.10.25-12.21.14:937][ 67]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.21.14:940][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003021s)
+[2018.10.25-12.21.14:941][ 67]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.21.14:941][ 67]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2018.10.25-12.21.14:941][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004269s)
+[2018.10.25-12.21.14:997][ 67]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.21.15:008][ 67]LogInit: FAudioDevice initialized.
+[2018.10.25-12.21.15:039][ 67]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.21.15:041][ 67]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.25-14.21.15
+[2018.10.25-12.21.15:041][ 67]LogWorld: Bringing up level for play took: 0.000621
+[2018.10.25-12.21.15:056][ 67]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,831
+[2018.10.25-12.21.15:056][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.21.16:452][117]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.21.16:475][117]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.21.17:577][117]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.21.17:577][117]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.21.18:122][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 60) at 2018.10.25-14.21.18
+[2018.10.25-12.21.18:133][117]LogWorld: Bringing up level for play took: 0.554687
+[2018.10.25-12.21.18:133][117]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.21.18:135][117]LogLoad: Took 1.660339 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.21.18:156][118]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.083601 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.21.30:292][448]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.25-12.21.51:620][140]LogCharacterMovement: TopDownCharacter_2 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=480.00 Y=-2690.00 Z=30.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:86.000 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.25-12.22.10:388][676]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.25-12.22.19:456][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.22.19:589][963]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.22.19:618][963]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.22.20:647][963]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.22.20:647][963]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.22.21:194][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 60) at 2018.10.25-14.22.21
+[2018.10.25-12.22.21:205][963]LogWorld: Bringing up level for play took: 0.556896
+[2018.10.25-12.22.21:205][963]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.22.21:207][963]LogLoad: Took 1.588918 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.22.21:227][964]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.090053 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.22.32:460][262]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.25-12.22.35:362][356]LogCharacterMovement: TopDownCharacter_2 is stuck and failed to move! Velocity: X=-0.00 Y=600.00 Z=0.00 Location: X=480.00 Y=-2690.00 Z=30.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:86.000 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.25-12.22.52:242][826]LogBlueprintUserMessages: [TopDownCharacter_2] Timer
+[2018.10.25-12.22.54:570][900]LogCharacterMovement: TopDownCharacter_2 is stuck and failed to move! Velocity: X=-0.03 Y=600.00 Z=0.00 Location: X=30.00 Y=-390.00 Z=30.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:86.000 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.25-12.23.09:871][384]LogAudio: Warning: Detected orphaned looping sound 'wrd_004_Cue'.
+[2018.10.25-12.23.14:742][540]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.25-12.23.14:770][540]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.25-12.23.14:952][540]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.23.14:958][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005951s)
+[2018.10.25-12.23.14:962][540]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.23.14:963][540]LogPlayLevel: PIE: World Init took: (0.004209s)
+[2018.10.25-12.23.14:963][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010569s)
+[2018.10.25-12.23.14:963][540]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.23.14:966][540]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.25-14.23.14
+[2018.10.25-12.23.14:966][540]LogWorld: Bringing up level for play took: 0.001475
+[2018.10.25-12.23.14:972][540]LogLoad: Took 0.202162 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2018.10.25-12.23.30:422][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.23.30:535][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.23.30:536][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.23.30:598][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.23.30:599][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.23.30:711][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.23.30:792][119]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.10.25-12.23.40:748][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.23.41:310][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemy.Enemy
+[2018.10.25-12.23.41:707][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	Enemy_C /Engine/Transient.World_25:PersistentLevel.Enemy_C_0
+	Function /Game/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy:02A2
+[2018.10.25-12.23.41:707][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	Enemy_C /Engine/Transient.World_25:PersistentLevel.Enemy_C_0
+	Function /Game/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy:02A2
+[2018.10.25-12.24.00:517][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Move_Enemy.Move_Enemy
+[2018.10.25-12.24.12:718][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.24.12:846][545]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Paper2D/TranslucentUnlitSpriteMaterial.TranslucentUnlitSpriteMaterial
+[2018.10.25-12.24.16:363][650]LogSlate: Window 'TranslucentUnlitSpriteMaterial' being destroyed
+[2018.10.25-12.24.16:398][650]LogSlate: Window 'TranslucentUnlitSpriteMaterial' being destroyed
+[2018.10.25-12.24.17:122][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.25-12.24.53:957][861]LogClass: Warning: In asset 'None', there is an enum property of type 'ELightmapType' with an invalid value of ''
+[2018.10.25-12.25.03:094][234]BlueprintLog: New page: Compile Move_Enemy
+[2018.10.25-12.25.03:956][253]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Move_Enemy9C5D17AA48DC04AAF7B573AECF257A4B.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Move_Enemy.uasset'
+[2018.10.25-12.25.05:974][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.25.06:046][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.25.06:046][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.25.06:046][362]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:25:06)
+[2018.10.25-12.25.06:047][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.25.06:051][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003873s)
+[2018.10.25-12.25.06:052][362]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.25.06:052][362]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2018.10.25-12.25.06:052][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.005387s)
+[2018.10.25-12.25.06:117][362]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.25.06:127][362]LogInit: FAudioDevice initialized.
+[2018.10.25-12.25.06:161][362]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.25.06:164][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-14.25.06
+[2018.10.25-12.25.06:164][362]LogWorld: Bringing up level for play took: 0.000799
+[2018.10.25-12.25.06:178][362]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,048
+[2018.10.25-12.25.06:179][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.25.07:265][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.25.07:379][403]LogNet: Browse: /Game/Maps/2
+[2018.10.25-12.25.07:404][403]LogLoad: LoadMap: /Game/Maps/2
+[2018.10.25-12.25.08:126][403]LogAIModule: Creating AISystem for world 2
+[2018.10.25-12.25.08:127][403]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.25.08:672][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2018.10.25-14.25.08
+[2018.10.25-12.25.08:683][403]LogWorld: Bringing up level for play took: 0.555034
+[2018.10.25-12.25.08:684][403]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-12.25.08:686][403]LogLoad: Took 1.281365 seconds to LoadMap(/Game/Maps/2)
+[2018.10.25-12.25.08:756][404]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087822 > MaxSimulationTimeStep (0.050) for 'Move_Enemy_2', movement 'Walking'
+[2018.10.25-12.25.16:529][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.25.16:530][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.25.16:667][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.25.16:668][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.25.16:793][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.25.16:837][612]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.10.25-12.25.23:423][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.25.28:894][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.30.21:775][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.117
+[2018.10.25-12.30.21:786][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog1_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.21:809][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog1_Sprite.Friendly_Dog1_Sprite]
+[2018.10.25-12.30.21:809][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog1_Sprite]
+[2018.10.25-12.30.21:832][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog1_Sprite_Auto2FC132B0948F4A938EEA6C08070D7410D.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog1_Sprite_Auto2.uasset'
+[2018.10.25-12.30.21:852][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog2_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.21:868][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog2_Sprite.Friendly_Dog2_Sprite]
+[2018.10.25-12.30.21:868][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog2_Sprite]
+[2018.10.25-12.30.21:883][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog2_Sprite_Auto2F0A97BAB47217853FD5F64BBC528E877.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog2_Sprite_Auto2.uasset'
+[2018.10.25-12.30.21:914][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog3_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.21:944][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog3_Sprite.Friendly_Dog3_Sprite]
+[2018.10.25-12.30.21:944][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog3_Sprite]
+[2018.10.25-12.30.21:990][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog3_Sprite_Auto2C8FED1A64B94AF6F0BD536A57A2DA158.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog3_Sprite_Auto2.uasset'
+[2018.10.25-12.30.22:015][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog4_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.22:048][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog4_Sprite.Friendly_Dog4_Sprite]
+[2018.10.25-12.30.22:049][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog4_Sprite]
+[2018.10.25-12.30.22:087][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog4_Sprite_Auto24D4653354C8F06B0DAA989BE94FFB3ED.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog4_Sprite_Auto2.uasset'
+[2018.10.25-12.30.22:118][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog5_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.22:138][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog5_Sprite.Friendly_Dog5_Sprite]
+[2018.10.25-12.30.22:138][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog5_Sprite]
+[2018.10.25-12.30.22:153][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog5_Sprite_Auto2F3EFCEFD4111D7B7AFB6B69DDA294949.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog5_Sprite_Auto2.uasset'
+[2018.10.25-12.30.22:169][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog6_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.22:187][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog6_Sprite.Friendly_Dog6_Sprite]
+[2018.10.25-12.30.22:187][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog6_Sprite]
+[2018.10.25-12.30.22:215][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog6_Sprite_Auto2E859A2604821AF8FCAB001A0CDA2006B.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog6_Sprite_Auto2.uasset'
+[2018.10.25-12.30.22:230][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog7_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.22:255][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog7_Sprite.Friendly_Dog7_Sprite]
+[2018.10.25-12.30.22:255][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog7_Sprite]
+[2018.10.25-12.30.22:271][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog7_Sprite_Auto237B7099845FE3B0AA4253BA297FAB340.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog7_Sprite_Auto2.uasset'
+[2018.10.25-12.30.22:288][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Friendly_Dog8_Sprite] ([1] browsable assets)...
+[2018.10.25-12.30.22:307][462]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Friendly_Dog8_Sprite.Friendly_Dog8_Sprite]
+[2018.10.25-12.30.22:307][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Friendly_Dog8_Sprite]
+[2018.10.25-12.30.22:334][462]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog8_Sprite_Auto25CE889B34D1732B2712B1887E8CEC03E.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Autosaves/Game/Art/Friendly_Dog8_Sprite_Auto2.uasset'
+[2018.10.25-12.30.22:347][462]LogFileHelpers: Auto-saving content packages took 0.568
+[2018.10.25-12.36.32:369][152]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/s163390/Downloads/Teleport Sound Effects All Sounds.wav)
+[2018.10.25-12.36.33:725][270]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Teleport_Sound_Effects_All_Sounds...
+[2018.10.25-12.36.33:726][270]LogTemp: Couldn't find amount to resample to.
+[2018.10.25-12.36.33:793][270]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/Audio/Teleport_Sound_Effects_All_Sounds.Teleport_Sound_Effects_All_Sounds.
+[2018.10.25-12.36.48:280][701]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio/Teleport_Sound_Effects_All_Sounds.Teleport_Sound_Effects_All_Sounds
+[2018.10.25-12.37.00:469][707]LogSlate: Window 'Teleport_Sound_Effects_All_Sounds* - Generic Asset Editor' being destroyed
+[2018.10.25-12.37.00:478][707]LogSlate: Window 'Teleport_Sound_Effects_All_Sounds* - Generic Asset Editor' being destroyed
+[2018.10.25-12.37.14:449][939]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Teleport_Sound_Effects_All_SoundA514BFD949800D1C0F9F268A015C0216.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Audio/Teleport_Sound_Effects_All_Sounds.uasset'
+[2018.10.25-12.37.23:788][500]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Reset_Point.Reset_Point
+[2018.10.25-12.37.55:220][612]BlueprintLog: New page: Compile Reset_Point
+[2018.10.25-12.37.56:079][646]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Reset_PointB48992714198524703EC9387F0B26CCA.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset'
+[2018.10.25-12.37.57:725][797]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.37.57:811][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.37.57:811][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.37.57:811][797]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:37:57)
+[2018.10.25-12.37.57:811][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.37.57:815][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003014s)
+[2018.10.25-12.37.57:815][797]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.37.57:815][797]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2018.10.25-12.37.57:816][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004049s)
+[2018.10.25-12.37.57:876][797]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.37.57:888][797]LogInit: FAudioDevice initialized.
+[2018.10.25-12.37.57:919][797]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.37.57:921][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-14.37.57
+[2018.10.25-12.37.57:921][797]LogWorld: Bringing up level for play took: 0.000633
+[2018.10.25-12.37.57:935][797]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,302
+[2018.10.25-12.37.57:936][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.38.00:717][898]LogNet: Browse: /Game/Maps/1
+[2018.10.25-12.38.00:737][898]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.25-12.38.01:010][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.38.01:010][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:010][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog1_Sprite
+[2018.10.25-12.38.01:010][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.38.01:010][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:010][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog2_Sprite
+[2018.10.25-12.38.01:011][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.38.01:011][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:011][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog3_Sprite
+[2018.10.25-12.38.01:011][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.38.01:011][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:011][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog4_Sprite
+[2018.10.25-12.38.01:011][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.38.01:011][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:012][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog5_Sprite
+[2018.10.25-12.38.01:012][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.38.01:012][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:012][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog6_Sprite
+[2018.10.25-12.38.01:012][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.38.01:012][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:012][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog7_Sprite
+[2018.10.25-12.38.01:013][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.38.01:013][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:013][898]LoadErrors: Error: /Game/Blueprints/Friend : Can't find file for asset. /Game/Art/Friendly_Dog8_Sprite
+[2018.10.25-12.38.01:013][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.38.01:013][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:013][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.38.01:014][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:014][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.38.01:014][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:014][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.38.01:014][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:014][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.38.01:015][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:015][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.38.01:015][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:015][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.38.01:015][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:015][898]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.38.01:016][898]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.01:443][898]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.38.01:443][898]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.38.01:449][898]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.38.01
+[2018.10.25-12.38.01:450][898]LogWorld: Bringing up level for play took: 0.005692
+[2018.10.25-12.38.01:452][898]LogLoad: Took 0.715098 seconds to LoadMap(/Game/Maps/1)
+[2018.10.25-12.38.15:737][374]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.38.18:290][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.38.18:291][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.38.18:356][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.38.18:357][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.38.18:463][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.38.18:500][473]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.10.25-12.38.27:942][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.38.53:834][550]BlueprintLog: New page: Compile Reset_Point
+[2018.10.25-12.38.54:497][578]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Reset_Point633B1E3A4FEA5347DFE1B2855D50F41C.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset'
+[2018.10.25-12.38.56:272][721]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.38.56:349][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.38.56:349][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.38.56:349][721]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:38:56)
+[2018.10.25-12.38.56:350][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.38.56:354][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003753s)
+[2018.10.25-12.38.56:355][721]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.38.56:355][721]LogPlayLevel: PIE: World Init took: (0.001804s)
+[2018.10.25-12.38.56:356][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.005842s)
+[2018.10.25-12.38.56:434][721]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.38.56:446][721]LogInit: FAudioDevice initialized.
+[2018.10.25-12.38.56:483][721]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.38.56:485][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-14.38.56
+[2018.10.25-12.38.56:485][721]LogWorld: Bringing up level for play took: 0.000970
+[2018.10.25-12.38.56:500][721]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,261
+[2018.10.25-12.38.56:500][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.38.57:984][774]LogNet: Browse: /Game/Maps/1
+[2018.10.25-12.38.58:010][774]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.25-12.38.58:354][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.38.58:355][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:355][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.38.58:355][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:356][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.38.58:356][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:356][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.38.58:356][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:357][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.38.58:357][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:357][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.38.58:358][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:358][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.38.58:358][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:359][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.38.58:359][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:359][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.38.58:360][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:360][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.38.58:360][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:361][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.38.58:361][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:361][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.38.58:362][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:362][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.38.58:362][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:363][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.38.58:363][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:363][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.38.58:364][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:364][774]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.38.58:364][774]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.38.58:810][774]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.38.58:810][774]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.38.58:817][774]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.38.58
+[2018.10.25-12.38.58:817][774]LogWorld: Bringing up level for play took: 0.005745
+[2018.10.25-12.38.58:820][774]LogLoad: Took 0.809571 seconds to LoadMap(/Game/Maps/1)
+[2018.10.25-12.39.12:340][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.39.12:340][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.39.12:413][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.39.12:413][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.39.12:535][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.39.12:575][229]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.10.25-12.39.13:011][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.40.06:720][634]BlueprintLog: New page: Compile Reset_Point
+[2018.10.25-12.40.07:439][664]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Reset_PointF0C9A8C54E5AAADD931C9089B253AF9F.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset'
+[2018.10.25-12.40.08:854][770]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.40.08:919][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.40.08:919][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.40.08:920][770]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:40:08)
+[2018.10.25-12.40.08:920][770]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.40.08:923][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002650s)
+[2018.10.25-12.40.08:924][770]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.40.08:924][770]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2018.10.25-12.40.08:924][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003984s)
+[2018.10.25-12.40.08:982][770]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.40.08:991][770]LogInit: FAudioDevice initialized.
+[2018.10.25-12.40.09:023][770]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.40.09:024][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-14.40.09
+[2018.10.25-12.40.09:024][770]LogWorld: Bringing up level for play took: 0.000604
+[2018.10.25-12.40.09:039][770]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,799
+[2018.10.25-12.40.09:040][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.40.10:089][807]LogNet: Browse: /Game/Maps/1
+[2018.10.25-12.40.10:115][807]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.25-12.40.10:397][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.40.10:397][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:397][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.40.10:397][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:397][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.40.10:397][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.40.10:398][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:399][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.40.10:400][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:401][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.40.10:401][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:401][807]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.40.10:401][807]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.40.10:772][807]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.40.10:772][807]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.40.10:778][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.40.10
+[2018.10.25-12.40.10:779][807]LogWorld: Bringing up level for play took: 0.005765
+[2018.10.25-12.40.10:782][807]LogLoad: Took 0.666984 seconds to LoadMap(/Game/Maps/1)
+[2018.10.25-12.40.25:258][292]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.40.29:990][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.40.29:991][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.40.30:057][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.40.30:057][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.40.30:168][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.40.30:200][468]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.10.25-12.40.32:202][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.41.07:810][714]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Reset_PointD9C4CC4446125426A39569B54512116B.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset'
+[2018.10.25-12.41.11:889][ 52]BlueprintLog: New page: Compile Reset_Point
+[2018.10.25-12.41.12:632][ 85]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Reset_Point9BEFD5F14AE53A1B180D65BFD579E379.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Reset_Point.uasset'
+[2018.10.25-12.41.13:941][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.41.14:006][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.41.14:006][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.41.14:006][183]PIE: New page: PIE session: MainMenu (25 okt. 2018 16:41:14)
+[2018.10.25-12.41.14:006][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.10.25-12.41.14:009][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002322s)
+[2018.10.25-12.41.14:010][183]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-12.41.14:010][183]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.10.25-12.41.14:010][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003611s)
+[2018.10.25-12.41.14:064][183]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.41.14:072][183]LogInit: FAudioDevice initialized.
+[2018.10.25-12.41.14:107][183]LogLoad: Game class is 'MainMenu_C'
+[2018.10.25-12.41.14:109][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-14.41.14
+[2018.10.25-12.41.14:109][183]LogWorld: Bringing up level for play took: 0.000662
+[2018.10.25-12.41.14:124][183]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,117
+[2018.10.25-12.41.14:124][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.41.15:695][238]LogNet: Browse: /Game/Maps/1
+[2018.10.25-12.41.15:709][238]LogLoad: LoadMap: /Game/Maps/1
+[2018.10.25-12.41.16:069][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.41.16:069][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:070][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.41.16:071][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:072][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog1_Sprite'
+[2018.10.25-12.41.16:072][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog1_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:072][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog2_Sprite'
+[2018.10.25-12.41.16:072][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog2_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:072][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog3_Sprite'
+[2018.10.25-12.41.16:072][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog3_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog4_Sprite'
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog4_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog5_Sprite'
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog5_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog6_Sprite'
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog6_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:073][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog7_Sprite'
+[2018.10.25-12.41.16:074][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog7_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:074][238]LogLinker: Warning: Can't find file '/Game/Art/Friendly_Dog8_Sprite'
+[2018.10.25-12.41.16:074][238]LogLinker: Warning: Can't find file for asset '/Game/Art/Friendly_Dog8_Sprite' while loading ../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Blueprints/Friend.uasset.
+[2018.10.25-12.41.16:455][238]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.41.16:455][238]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.41.16:462][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.41.16
+[2018.10.25-12.41.16:462][238]LogWorld: Bringing up level for play took: 0.005671
+[2018.10.25-12.41.16:465][238]LogLoad: Took 0.755984 seconds to LoadMap(/Game/Maps/1)
+[2018.10.25-12.41.32:110][764]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.41.37:587][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.41.37:588][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.41.37:654][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.41.37:655][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.10.25-12.41.37:752][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.41.37:813][974]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.10.25-12.41.41:161][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.41.50:216][798]LogSlate: Window 'Save Content' being destroyed
+[2018.10.25-12.41.50:306][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog1_Sprite9B5FD2874D013CD15C2D39BC19833264.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog1_Sprite.uasset'
+[2018.10.25-12.41.50:353][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog2_SpriteFC7A3D5946EA50DAE0A54085075CF44C.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog2_Sprite.uasset'
+[2018.10.25-12.41.50:399][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog3_Sprite7B1FD011411188025B23BCBD69ECAA96.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog3_Sprite.uasset'
+[2018.10.25-12.41.50:443][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog4_SpriteDC8418EA4ED2881DD1BF7E8E0625D95D.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog4_Sprite.uasset'
+[2018.10.25-12.41.50:486][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog5_SpriteC0B98C6A408346951EF79BA4D364FB12.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog5_Sprite.uasset'
+[2018.10.25-12.41.50:533][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog6_Sprite805D95474CF8B69CE4428BAB114B65D7.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog6_Sprite.uasset'
+[2018.10.25-12.41.50:580][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog7_SpriteBCDEFCE24A72F84410FCF680F88F5EBC.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog7_Sprite.uasset'
+[2018.10.25-12.41.50:634][798]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/Friendly_Dog8_Sprite1AA36BBC4697B9C5AA207089C1836A86.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Art/Friendly_Dog8_Sprite.uasset'
+[2018.10.25-12.41.50:675][798]Cmd: MAP LOAD FILE="../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.25-12.41.50:708][798]LightingResults: New page: Lighting Build
+[2018.10.25-12.41.50:709][798]LoadErrors: New page: Loading map: 1.umap
+[2018.10.25-12.41.50:710][798]MapCheck: New page: Map Check
+[2018.10.25-12.41.50:710][798]LightingResults: New page: Lighting Build
+[2018.10.25-12.41.51:250][798]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.41.51:376][798]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.25-12.41.51:517][798]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.25-12.41.51:679][798]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 161,899ms to complete.
+[2018.10.25-12.41.51:679][798]LogFileHelpers: Loading map '1' took 1.010
+[2018.10.25-12.41.51:688][798]LogSlate: Window 'Open Level' being destroyed
+[2018.10.25-12.41.53:755][  5]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2018.10.25-12.42.03:749][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.42.04:194][558]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1CE6029294CFEDA2B492BEDA2B47C552D.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.25-12.42.04:294][558]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1_BuiltData663D0B354BE57A4070B2F58E7526EAF5.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.25-12.42.04:790][602]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.42.04:921][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.42.04:921][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.42.04:922][602]PIE: New page: PIE session: 1 (25 okt. 2018 16:42:04)
+[2018.10.25-12.42.04:922][602]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.25-12.42.04:933][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011544s)
+[2018.10.25-12.42.04:935][602]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.42.04:935][602]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2018.10.25-12.42.04:935][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.013013s)
+[2018.10.25-12.42.04:992][602]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.42.05:000][602]LogInit: FAudioDevice initialized.
+[2018.10.25-12.42.05:030][602]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.42.05:033][602]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.42.05
+[2018.10.25-12.42.05:033][602]LogWorld: Bringing up level for play took: 0.001324
+[2018.10.25-12.42.05:048][602]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0,806
+[2018.10.25-12.42.05:048][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.42.20:175][106]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.42.27:891][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.42.27:892][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.42.27:969][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.42.27:969][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.42.28:083][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.42.28:121][397]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.10.25-12.42.29:331][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.25-12.42.33:176][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.25-12.42.35:519][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.25-12.42.36:002][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.25-12.42.36:863][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.25-12.42.37:008][789]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.10.25-12.42.38:992][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.42.58:421][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.43.01:739][809]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1DC737B284A25F0683CE36BB28B4DB555.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.25-12.43.01:825][809]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1_BuiltDataE9712A5F4E795855209655AA205BD588.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.25-12.43.02:577][855]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.43.02:641][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.02:642][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.43.02:642][855]PIE: New page: PIE session: 1 (25 okt. 2018 16:43:02)
+[2018.10.25-12.43.02:642][855]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.25-12.43.02:655][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012531s)
+[2018.10.25-12.43.02:656][855]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.43.02:656][855]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2018.10.25-12.43.02:657][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.014425s)
+[2018.10.25-12.43.02:720][855]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.43.02:728][855]LogInit: FAudioDevice initialized.
+[2018.10.25-12.43.02:764][855]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.43.02:766][855]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.43.02
+[2018.10.25-12.43.02:766][855]LogWorld: Bringing up level for play took: 0.001253
+[2018.10.25-12.43.02:782][855]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0,539
+[2018.10.25-12.43.02:782][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.17:559][344]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.43.21:208][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.21:209][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.43.21:285][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.43.21:285][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.21:386][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.43.21:417][483]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.10.25-12.43.22:934][578]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2018.10.25-12.43.26:279][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.43.29:648][  4]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1B25F10F44BECECD89109BEB50DA04CBB.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.25-12.43.29:732][  4]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1_BuiltData0860C59E4E62B433682C44A3C6704D25.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.25-12.43.30:281][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.43.30:344][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.30:344][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.43.30:344][ 46]PIE: New page: PIE session: 1 (25 okt. 2018 16:43:30)
+[2018.10.25-12.43.30:345][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.25-12.43.30:356][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010795s)
+[2018.10.25-12.43.30:357][ 46]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.43.30:357][ 46]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.10.25-12.43.30:357][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.012214s)
+[2018.10.25-12.43.30:415][ 46]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.43.30:423][ 46]LogInit: FAudioDevice initialized.
+[2018.10.25-12.43.30:457][ 46]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.43.30:460][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.43.30
+[2018.10.25-12.43.30:460][ 46]LogWorld: Bringing up level for play took: 0.001264
+[2018.10.25-12.43.30:475][ 46]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0,232
+[2018.10.25-12.43.30:475][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.44:921][525]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.43.49:976][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.49:977][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.43.50:055][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.43.50:055][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.43.50:168][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.43.50:200][717]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.10.25-12.43.51:980][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.44.46:070][733]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2018.10.25-12.44.49:266][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.44.52:112][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.25-12.44.53:343][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.44.53:728][323]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/10BC594E84352F509C2D91885E3ADEB81.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1.umap'
+[2018.10.25-12.44.53:844][323]LogSavePackage: Moving '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Saved/1_BuiltDataA4948BED423C7C87FAA77DB3F54A240C.tmp' to '../../../../../../Users/s163390/Documents/University/Year 3/[DZC10] Design for Games Play I/Shadow_Game/GameFiles/Content/Maps/1_BuiltData.uasset'
+[2018.10.25-12.44.54:371][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.44.54:423][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.44.54:423][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.44.54:423][362]PIE: New page: PIE session: 1 (25 okt. 2018 16:44:54)
+[2018.10.25-12.44.54:424][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.25-12.44.54:437][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013658s)
+[2018.10.25-12.44.54:438][362]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.44.54:439][362]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2018.10.25-12.44.54:439][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.015302s)
+[2018.10.25-12.44.54:504][362]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.44.54:513][362]LogInit: FAudioDevice initialized.
+[2018.10.25-12.44.54:548][362]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.44.54:552][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.44.54
+[2018.10.25-12.44.54:552][362]LogWorld: Bringing up level for play took: 0.001833
+[2018.10.25-12.44.54:570][362]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 0,327
+[2018.10.25-12.44.54:571][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.45.09:291][851]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.45.11:440][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.45.11:440][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.45.11:526][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.45.11:527][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.45.11:633][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.45.11:667][934]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.10.25-12.45.13:980][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.46.04:702][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.46.20:445][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.46.20:520][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.25-12.46.22:211][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.25-12.46.29:409][887]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.25-12.46.29:481][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.46.29:481][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.25-12.46.29:481][887]PIE: New page: PIE session: 1 (25 okt. 2018 16:46:29)
+[2018.10.25-12.46.29:481][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_1
+[2018.10.25-12.46.29:498][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016674s)
+[2018.10.25-12.46.29:499][887]LogAIModule: Creating AISystem for world 1
+[2018.10.25-12.46.29:500][887]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2018.10.25-12.46.29:500][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/1.1 to /Game/Maps/UEDPIE_0_1.1 (0.018276s)
+[2018.10.25-12.46.29:583][887]LogInit: XAudio2 using 'SONY TV  *00-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-12.46.29:594][887]LogInit: FAudioDevice initialized.
+[2018.10.25-12.46.29:629][887]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.25-12.46.29:632][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_1.1 up for play (max tick rate 0) at 2018.10.25-14.46.29
+[2018.10.25-12.46.29:632][887]LogWorld: Bringing up level for play took: 0.001584
+[2018.10.25-12.46.29:647][887]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_1 -0,597
+[2018.10.25-12.46.29:647][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.46.44:439][381]LogBlueprintUserMessages: [TopDownCharacter_C_0] Timer
+[2018.10.25-12.46.52:679][690]LogAudio: Warning: Detected orphaned looping sound 'wrd_004_Cue'.
+[2018.10.25-12.46.57:487][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.46.57:488][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.46.57:565][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.25-12.46.57:565][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/1.1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/1.1:PersistentLevel.1' with GeneratedClass '/Game/Maps/1.1_C' with ClassGeneratedBy '/Game/Maps/1.1:PersistentLevel.1'
+[2018.10.25-12.46.57:662][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.25-12.46.57:706][872]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2018.10.25-12.46.58:493][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-12.47.15:858][679]LogEditorViewport: Clicking on Actor (LMB): Friends_C (Friends)
+[2018.10.25-12.47.16:918][769]LogEditorViewport: Clicking on Actor (LMB): Friends_C (Friends2)
+[2018.10.25-12.47.18:442][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.25-12.47.32:785][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
